@@ -1,0 +1,684 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Fasciculus myrrhæ. Or a briefe treatise of our Lord and Sauiours passion. Written by the R. Fa. I. F. of the Society of Iesus</title>
+            <author>Falconer, John, 1577-1656.</author>
+         </titleStmt>
+         <extent>Approx. 105KB of XML-encoded text transcribed from 68 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A00536</idno><idno type="EEBO-CITATION">99849839</idno>
+  <idno type="VID">15011</idno>
+  <idno type="EEBO-PROQUEST">2240865197</idno>
+  <idno type="STC">STC 10676</idno>
+  <idno type="STC">ESTC S114614</idno>
+  
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99849839e"/>
+            <note>(EEBO-TCP ; phase 2, no. A00536)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 15011)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 790:01)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Fasciculus myrrhæ. Or a briefe treatise of our Lord and Sauiours passion. Written by the R. Fa. I. F. of the Society of Iesus</title>
+                  <author>Falconer, John, 1577-1656.</author>
+               </titleStmt>
+               <extent>120, [2] p.   </extent>
+               <publicationStmt>
+                  <publisher>English College Press],</publisher>
+                  <pubPlace>[Saint-Omer :</pubPlace>
+                  <date>1633.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication and printer from STC.</note>
+                  <note>At foot of title page: Permissu superiorum.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Jesus Christ --  Passion --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-11 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Colm MacCrossan </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:15011:1"/>
+            <pb facs="tcp:15011:1"/>
+            <p>FASCICVLVS MYRRHAE. OR A briefe Treatise of our Lord and Sauiours Passion. <hi>Written by the R. Fa. I. F. of the Society of JESƲS.</hi>
+            </p>
+            <figure>
+               <figDesc>the seal of the Jesuits or Society of Jesus, a sunburst containing a cross over the letters IHS over three nails</figDesc>
+               <head>
+                  <q>IHS</q>
+               </head>
+            </figure>
+            <p>
+               <q>
+                  <floatingText xml:lang="eng">
+                     <body>
+                        <div type="license">
+                           <p>Permissu Superiorum. 1633.</p>
+                        </div>
+                     </body>
+                  </floatingText>
+               </q>
+            </p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:15011:2"/>
+            <pb n="3" facs="tcp:15011:2"/>
+            <head>TO THE RIGHT HONOVRABLE THE LADY Katherine Abergaueny.</head>
+            <opener>
+               <salute>
+                  <seg rend="decorInit">M</seg>ADAME,</salute>
+            </opener>
+            <p>HAVING ma<g ref="char:EOLhyphen"/>ny yeares since, more by prayer then study, gathered this Posy of Hea<g ref="char:EOLhyphen"/>uenly flowers, from the Mir<g ref="char:EOLhyphen"/>rhy high Mountayne of our
+<pb n="4" facs="tcp:15011:3"/> Sauiours Passion, to sweeten chiefly, and delight my owne Soule, with deuout reuiew<g ref="char:EOLhyphen"/>ings, and memories thereof; I haue at length, by the ad<g ref="char:EOLhyphen"/>uise of worthy Friends, ad<g ref="char:EOLhyphen"/>uentured, for the good also of others, to publish the same; with an especiall desire to in<g ref="char:EOLhyphen"/>crease deuotion, by its often perusing, in You, &amp; Yours: To whome therfore, I haue presumed to direct it, as a friend, obliged, and desirous to serue your Honour, and Them, in all he may.</p>
+            <closer>
+               <signed>I. F.</signed>
+            </closer>
+         </div>
+         <div type="preface">
+            <pb n="5" facs="tcp:15011:3"/>
+            <head>THE PREFACE TO OVR SAVIOVRS PASSION.</head>
+            <p>
+               <seg rend="decorInit">T</seg>HE sonne of God <hi>(sayth a Holy Author)</hi> wonder<g ref="char:EOLhyphen"/>fully graced vs in his Jncar<g ref="char:EOLhyphen"/>nation, by taking therin, the seruil forme of our nature vpon him<g ref="char:EOLhyphen"/>selfe; blessed vs, in his humane nati<g ref="char:EOLhyphen"/>uity afterwards; edified vs, by his examplar life; instructed vs by his doctrine; comforted vs, by his louing promises; confirmed vs, by his mira<g ref="char:EOLhyphen"/>culous actions; enriched vs, by his infinite merits; and made himself by his painefull, and innocent death, a fountayne of Life, and measurelesse graces, gained therby graciously for vs.</p>
+            <pb n="6" facs="tcp:15011:4"/>
+            <p>So as, the sacred mystery of our Redeemers Crosse, which J purpose briefly to treate of in these ensuing papers, was the chiefe end of his com<g ref="char:EOLhyphen"/>ming into this worlde; the high, and hard worke of Obedience, on him, by his Eternall Father, for vs imposed; the paynefull period of his mortall pilgrimage heer amongst vs; the con<g ref="char:EOLhyphen"/>summation of his charity toward vs; the Abyssall depth of his mercy; the effusion of his bounty; and highest reach of his infinite wisedom: wherin for his owne glory, and our good, he deuised to circumuent Sathan in his owne crafte, weaken him in his pow<g ref="char:EOLhyphen"/>er, and vanquish him in his malice: and that also in such a manner, as in this Combat betweene them, he oppo<g ref="char:EOLhyphen"/>sed (sayth <hi>S. Leo</hi>) against him, not the maiesty of his owne nature, but the infirmity of ours, to make the vi<g ref="char:EOLhyphen"/>ctory therby become more glorious to himselfe, and gracefull to vs also; si<g ref="char:EOLhyphen"/>thence
+<pb n="7" facs="tcp:15011:4"/> man therein, formerly van<g ref="char:EOLhyphen"/>quished, became victorious, able as the sonne of God, personally assumed and dignified his nature, to satisfy the vtmost rigour of diuine Iustice, pacify the wrath of his eternall Fa<g ref="char:EOLhyphen"/>ther against sinners, make their full peace, &amp; meritoriously obtayne abun<g ref="char:EOLhyphen"/>dant graces heere, and glory after<g ref="char:EOLhyphen"/>wards eternally for them.</p>
+         </div>
+      </front>
+      <body>
+         <div n="1" type="chapter">
+            <pb facs="tcp:15011:5"/>
+            <pb n="9" facs="tcp:15011:5"/>
+            <head>
+               <hi>THE I. CHAPTER.</hi> Declaring some chiefe Figures of our Sauiours Passion.</head>
+            <p>
+               <seg rend="decorInit">W</seg>HEN holy <hi>Isaac</hi> as<g ref="char:EOLhyphen"/>cended Mount <hi>Cal<g ref="char:EOLhyphen"/>uary</hi> (as great Au<g ref="char:EOLhyphen"/>thours haue affir<g ref="char:EOLhyphen"/>med) loadē with that wood, on which (as a type of his Redeemer) he was to be bloudily sacrificed: God the Father, see<g ref="char:EOLhyphen"/>med euen then to delight himself, in beholding an Earthly Parent, ready to do that, to his louing, and beloued child, which was by him afterwards for the saluation of mankind, towards his owne Eternall Sonne, and in that very place also, graciously intended.
+<pb n="10" facs="tcp:15011:6"/> But could not haue byn perfor<g ref="char:EOLhyphen"/>med on him, had he not been first in the briars of humane nature, &amp; miseries thereunto belonging (as was the misterious Ramme, in place of <hi>Jsaac</hi> offered) personally intangled.</p>
+            <p>The <hi>brasen Serpent,</hi> erected in the desert, to heale the Israelites looking vpon it, represented him hanging on his Crosse, who said therof, in his Ghospell, <hi>Ioan. 3. As Moyses lifted vp the serpent in the desert, so must the sonne of man be exalted &amp;c.</hi> This serpent was of brasse, aswel to shew our Sauiours wonderfull fortitude, in suffering cruell torments silently, as if he had not felt them; as also to let vs vnderstand, that he assumed not the poyson of sinne, with the seruile forme of our nature, vtter<g ref="char:EOLhyphen"/>ly repugnant to the infinite san<g ref="char:EOLhyphen"/>ctity, and maiesty of his person.</p>
+            <pb n="11" facs="tcp:15011:6"/>
+            <p>That huge, and mysterious bunch of Grapes <hi>[Numer. 13.]</hi> hung on a pole between two, to shew the fruitfulnes of that coū<g ref="char:EOLhyphen"/>try which the Israelites were en<g ref="char:EOLhyphen"/>tring into, figured (sayth <hi>S. Au<g ref="char:EOLhyphen"/>gustin</hi>) the sonne of God hanging on his Crosse, by Iewes and Gen<g ref="char:EOLhyphen"/>tils differently carryed: the Iewes carry him by belieuing the scri<g ref="char:EOLhyphen"/>ptures, foretelling plainely, and particularly his passion, yet so as they haue their backs towards him, and looke not faithfully on him; wheras the Gentils are de<g ref="char:EOLhyphen"/>lighted to behould him, cluste<g ref="char:EOLhyphen"/>red in his gracious perfections, &amp; distilling frō his Crosse, the ine<g ref="char:EOLhyphen"/>briating iuyce of heauenly con<g ref="char:EOLhyphen"/>solations plentifully on them.</p>
+            <p>The <hi>Iewish Temple,</hi> was as a pu<g ref="char:EOLhyphen"/>blique theater, on which the eter<g ref="char:EOLhyphen"/>nall Father, was delighted to be<g ref="char:EOLhyphen"/>hould his Sonnes bloudy sacri<g ref="char:EOLhyphen"/>fice,
+<pb n="12" facs="tcp:15011:7"/> in typicall manners, diuersly and deuoutly represented. Their chiefest feasts (as <hi>S. Paul</hi> in his E<g ref="char:EOLhyphen"/>pistle, to the Hebrewes themsel<g ref="char:EOLhyphen"/>ues, &amp; sundry holy Fathers haue declared them) were in the miste<g ref="char:EOLhyphen"/>rious sacrifices, &amp; ceremonies of them, types of our Good-friday, shadowes of our Sun-shine, and cloudy representations of hea<g ref="char:EOLhyphen"/>uenly Verities, by the Sonne of God in his human life &amp; death, graciously since that tyme, and clearly reuealed: who, [as in <hi>Gen.</hi> 3.] was of him mysteriously promised, by receauing the sting of death into his heele (to wit the lowest, and corporall part of our nature) crushed the Serpents head, and vanquished him vtterly for vs.</p>
+         </div>
+         <div n="2" type="chapter">
+            <pb n="13" facs="tcp:15011:7"/>
+            <head>
+               <hi>CHAP. II.</hi> Of Gods wonderfull Mercy in redeeming vs.</head>
+            <p>THe Church in her deuout office of Easter-Eue, calleth Adams sinne, <hi>happy and ne<g ref="char:EOLhyphen"/>cessary, which merited such, and so great a Redeemer:</hi> not by any dig<g ref="char:EOLhyphen"/>nity, or pleasingnes of the fact it selfe, hatefull to Almighty God, and horribly punished, by him, in <hi>Adam</hi> himselfe, and his whole posterity after him: But by a cō<g ref="char:EOLhyphen"/>gruous kind of compassion mo<g ref="char:EOLhyphen"/>uing him, our most louing, and merciful Lord, rather then to cō<g ref="char:EOLhyphen"/>dēne the whole race of mankind guilty of their first Parents trans<g ref="char:EOLhyphen"/>gression, to ordayne such a won<g ref="char:EOLhyphen"/>derfull meanes, &amp; manner of re<g ref="char:EOLhyphen"/>deeming vs, as might increase his owne glory, confound our Ad<g ref="char:EOLhyphen"/>uersary, and rayse vs more, then
+<pb n="14" facs="tcp:15011:8"/> if we had still perseuered in ori<g ref="char:EOLhyphen"/>ginall grace, and neuer offended him.</p>
+            <p>For at the instant of mans fall, <hi>Loue,</hi> and <hi>Wisedome</hi> combined themselues, to vnite and accord in a wonderfull manner, <hi>Mercy</hi> and <hi>Justice,</hi> our Creatours two different attributes; so as <hi>Mercy</hi> afterwards was not more willing, to haue mans pardon granted, thē <hi>Iustice</hi> was ready to accept, more then a rigorous satisfaction, offe<g ref="char:EOLhyphen"/>red graciously for it.</p>
+            <p>
+               <hi>Omnipotency</hi> gladly yielded, to effect all that, which should be needfull, on Gods, and mans part, to make this required satis<g ref="char:EOLhyphen"/>factiō; which could not be done, but by a person of equall digni<g ref="char:EOLhyphen"/>ty, with him, who had byn so by mans fault, iniured &amp; offended.</p>
+            <p>This infinite worth, no pure Creature by any Created grace
+<pb n="15" facs="tcp:15011:8"/> whatsoeuer, could arriue vnto; but one of the diuine Persons themselues, must necessarily, for this high purpose, assume to him<g ref="char:EOLhyphen"/>selfe some created Nature (and mans most conueniently) perso<g ref="char:EOLhyphen"/>nally making it his owne, infinit<g ref="char:EOLhyphen"/>ly therby to increase the valew of human actions and passions, and rayse them so, as the vtmost ri<g ref="char:EOLhyphen"/>gour of diuine Iustice, might be<g ref="char:EOLhyphen"/>come satisfyed by them, &amp; more then Grace lost by sinne become for vs happily regayned.</p>
+            <p>
+               <hi>Maiesty</hi> yielded to be thus hū<g ref="char:EOLhyphen"/>bled, &amp; inuested with the seruile forme of our nature, &amp; to assume all such infirmityes and defects therof, as inuolued not sinne, and were apt to become satisfactory for vs.</p>
+            <p>
+               <hi>Goodnes</hi> delighted to effuse it selfe to the vtmost in this won<g ref="char:EOLhyphen"/>derfull worke. And <hi>Bounty</hi> ad<g ref="char:EOLhyphen"/>ded
+<pb n="16" facs="tcp:15011:9"/> infinitely more, then was ri<g ref="char:EOLhyphen"/>gorously needfull to redeeme vs.</p>
+            <p>The <hi>Eternall Word</hi> amongst the diuine Persons vndertooke this high worke, as chiefly belonging to himselfe (sayth <hi>S. Bernard</hi>) the bright splendour, and subsi<g ref="char:EOLhyphen"/>sting Image of his Eternall Fa<g ref="char:EOLhyphen"/>ther, to repayre the likenes of himselfe, and the other Diuine persons in mans nature, misera<g ref="char:EOLhyphen"/>bly by sinne obscured and defa<g ref="char:EOLhyphen"/>ced.</p>
+            <p>I will (sayd he) O Eternall Fa<g ref="char:EOLhyphen"/>ther, descend into the earth, to make earthly soules there becom heauenly: and by assuming their nature, vilifyed now and debased by sinne, into the Maiesty of my owne Person, I will deify in a sort, and infinitely dignify the same more, then if it had neuer bin disgraced. And by how much the more craftily &amp; cruelly, their
+<pb n="17" facs="tcp:15011:9"/> infernall Aduersary, emulating their good, and thy glory, hath sought to draw, &amp; separate them from thee: by so much the more neerly, will I vnite them to my selfe, by making their nature, en<g ref="char:EOLhyphen"/>riched with wonderfull graces, the Crowne as it were of my self, and glory of all Creatures; a foū<g ref="char:EOLhyphen"/>tayne of grace, rising in my self; the boūdlesse Ocean of all good<g ref="char:EOLhyphen"/>nes; a most precious Pearle, set in the Orbe of my owne maiesty and greatnes; a Tree of life plan<g ref="char:EOLhyphen"/>ted in no other soyle, then my owne person; the true Paradise and ioyfull mansion of all bles<g ref="char:EOLhyphen"/>sed Creatures.</p>
+            <p>The Eternall Father graciou<g ref="char:EOLhyphen"/>sly assented to his Sonnes moti<g ref="char:EOLhyphen"/>on, of shewing mercy to man<g ref="char:EOLhyphen"/>kind, and loued the world so, as to giue him to redeeme it. Who in the ouer greatnes of his loue
+<pb n="18" facs="tcp:15011:10"/> graciously resolued, to free vs by his owne captiuity; enrich vs by his pouerty, ease vs by his suf<g ref="char:EOLhyphen"/>ferings, cure vs by his wounds, cleanse vs by his bloud, reuiue vs by his death, and by his owne humiliations and disgraces, eter<g ref="char:EOLhyphen"/>nally to honour and highly exalt vs.</p>
+         </div>
+         <div n="3" type="chapter">
+            <head>
+               <hi>CHAP. III.</hi> Of our Sauiours last Supper.</head>
+            <p>THis last supper of Christ was an Ordination of his Testa<g ref="char:EOLhyphen"/>ment, before death, full of heauenly Legacies giuen therin, &amp; promised vnto vs: or rather a banquet of loue (as a deuout Au<g ref="char:EOLhyphen"/>thour calleth it) begun with hu<g ref="char:EOLhyphen"/>mility, sweetned with bounty, &amp; concluded with Charity in spea<g ref="char:EOLhyphen"/>ches, guifts, &amp; acts of Loue won<g ref="char:EOLhyphen"/>derfully expressed.</p>
+            <p>
+               <hi>Humility</hi> prostrated him there<g ref="char:EOLhyphen"/>in,
+<pb n="19" facs="tcp:15011:10"/> euen at <hi>Iudas</hi> feete, then re<g ref="char:EOLhyphen"/>solued to betray him.</p>
+            <p>
+               <hi>Bounty</hi> inclined him to bestow therein a guift fully equalling his infinite Loue towards vs.</p>
+            <p>And <hi>Charity</hi> hastened him to a speedy deliuery of himselfe for vs, <hi>that the world may know</hi> (said he) <hi>how I loue my Father, and am ready to do, as he hath commaunded: arise let vs goe &amp;c.</hi>
+            </p>
+            <p>His Apostles were only with him, in this mysterious Supper, as hauing been peculiarly chosen by him, to be the chiefe dispen<g ref="char:EOLhyphen"/>sers of those heauenly Legacies, then bequeathed vnto them.</p>
+            <p>Taking bread, and wine into his powerfull hands, he designed them, by his mysterious blessing, to be the future subiects of those wonderfull mutatiōs which him<g ref="char:EOLhyphen"/>selfe then, &amp; his Priestly Seruants afterwards, were authorized to
+<pb n="20" facs="tcp:15011:11"/> worke in them.</p>
+            <p>Looking towards heauen, and hūbly thanking his Eternall Fa<g ref="char:EOLhyphen"/>ther, he both shewed the greatnes of that blessing, which he was ordayning then for vs, and sup<g ref="char:EOLhyphen"/>plyed withall our great ingrati<g ref="char:EOLhyphen"/>tude, by his owne thankfulnes for it.</p>
+            <p>His Sacramentall words then vttered; <hi>This is my body &amp;c. This is the Chalice of my bloud &amp;c.</hi> had not only in his owne mouth, an om<g ref="char:EOLhyphen"/>nipotent kind of force, really to effect, what literally they impor<g ref="char:EOLhyphen"/>ted; but they retayne still also, the same power, in the mouthes of his Priestly seruants, authori<g ref="char:EOLhyphen"/>zed to do, what himselfe did be<g ref="char:EOLhyphen"/>fore them; when his holy will swayed with Loue, and attended on by an infinite Power, deligh<g ref="char:EOLhyphen"/>ted it selfe, for a farewell out of this world, to cōmunicate (sayth
+<pb n="21" facs="tcp:15011:11"/>
+               <hi>S. Thomas</hi>) in all profitable, and possible manners vnto vs, what for vs, and from vs he had gra<g ref="char:EOLhyphen"/>ciously receaued.</p>
+            <p>And as, his diuine Father had with an effused bounty, giuen him to be bloudily sacrificed in humane nature for vs: so was he, in an equall excesse of loue and mercy, graciously pleased, in his last Supper, to ordayne of him<g ref="char:EOLhyphen"/>selfe, a mysterious and vnbloudy Oblation. Wherein the painefull separation of his body &amp; bloud, once made on the Crosse, might dayly (euen to the worlds end) &amp; triumphantly be represented; and the fruites of his death occasio<g ref="char:EOLhyphen"/>ned therby, effectually &amp; abun<g ref="char:EOLhyphen"/>dantly be applyed vnto vs.</p>
+            <p>It well became so diuine an High Priest, as was the sonne of God himselfe, in human nature, to dignify his Church; grace his
+<pb n="22" facs="tcp:15011:12"/> new Law, and sanctify, aswell the ministers, as professours therof, by so diuine, and triumphant a sacrifice, one, in the Host, with his bloudy oblation, and only diffe<g ref="char:EOLhyphen"/>rent in our manner of offering it.</p>
+            <p>In that (for example) he was passible, and mortall: In this, he is immortall and glorious.</p>
+            <p>In that, he was to the open view of all people present, naked<g ref="char:EOLhyphen"/>ly exposed: wheras in this, vnder the formes of bread, and wine, he is hiddenly, and vndiscernably offered.</p>
+            <p>In that, he suffered painefull tearings, and torments: In this he cannot be payned, or immediatly touched.</p>
+            <p>In that, he was at his ful breadth and length locally extended: In this, his whole body, is into a punctuall &amp; indiuisible presence, miraculously contracted:</p>
+            <pb n="23" facs="tcp:15011:12"/>
+            <p>In that, his reall death was the consummation of his sacrifice: In this, his mysterious, and repre<g ref="char:EOLunhyphen"/>sentatiue death, only sufficeth.</p>
+            <p>In that, he was only hidden in his personall maiesty: in this, he is concealed in his humanity also. Neuer greater, then in being so lessened: neuer more glorious, then in being so obscured: neuer so gainefully gazed on, as heere he is meritoriously belieued, to be corporally present, gratefully offered to his Eternall Father, &amp; by holy soules sacramentaly re<g ref="char:EOLhyphen"/>ceaued. Who dayly eaten, is ne<g ref="char:EOLhyphen"/>uer carnally deuoured. Distant places do not deuide him: nor different hosts multiply, or par<g ref="char:EOLhyphen"/>tially contayne him: one, &amp; ma<g ref="char:EOLhyphen"/>ny do equally receaue him; and soules best prepared, do question<g ref="char:EOLhyphen"/>lesse receaue greatest graces from him: when, as a louing Father,
+<pb n="24" facs="tcp:15011:13"/> Brother, Spouse, Phisitian, King, and Captayne, he blesseth, ado<g ref="char:EOLhyphen"/>pteth, imbraceth, fecundateth, cureth, crowneth, &amp; conducteth to eternall happines, with him<g ref="char:EOLhyphen"/>selfe, all such, as like obedient children, adopted brethren, chast spouses, penitent patients, loyall subiects, and faithfull souldiers, worthily receaue him: a heauenly sunne to illuminate, a holy fyre to enflame, a flowing fountayne to clense, a food of life to nou<g ref="char:EOLhyphen"/>rish, a hidden <hi>Manna</hi> to delight, a soueraigne Medicine to cure, a powerfull Antidote to preserue darke, cold, foule, hungry, com<g ref="char:EOLhyphen"/>fortlesse, diseased, and distressed soules, deuoutly entertayning him.</p>
+         </div>
+         <div n="4" type="chapter">
+            <pb n="25" facs="tcp:15011:13"/>
+            <head>
+               <hi>CHAP. IV.</hi> Of our Sauiours prayer, and bloudy agony in the Garden.</head>
+            <p>HE left at his entrance into the garden, eight of his dis<g ref="char:EOLhyphen"/>ciples without, that they might not be terrified by the ap<g ref="char:EOLhyphen"/>proach of those troopes, sent to apprehēd him, nor himself seeme guarded, with so great a number of cōstant friends waiting vpon him; those three which he tooke with him, being witnesses suffi<g ref="char:EOLhyphen"/>cient, to testify his mysterious speaches, and actions there passed, and best prepared, by the won<g ref="char:EOLhyphen"/>derfull vision, which they had before seene of his glory, against the scandal of his passion approa<g ref="char:EOLhyphen"/>ching.</p>
+            <p>
+               <hi>He began</hi> (sayth the Euangelist) <hi>to be troubled,</hi> fearefull, and affli<g ref="char:EOLhyphen"/>cted, hauing raysed indeed, such
+<pb n="26" facs="tcp:15011:14"/> stormes of human passions, and infirmities in himselfe, to ouer<g ref="char:EOLhyphen"/>come them in his seruants; and to obtayne for them, in their paine<g ref="char:EOLhyphen"/>full trials for his sake, contrary vertues.</p>
+            <p>He was fearefull himselfe, to make them fearlesse, &amp; vndaun<g ref="char:EOLhyphen"/>ted. He was sadde himselfe, to make them cheerefull and com<g ref="char:EOLhyphen"/>forted. He was troubled himself, to make them quiet, and coura<g ref="char:EOLhyphen"/>giously constant in their tor<g ref="char:EOLhyphen"/>ments.</p>
+            <p>He prostrated himselfe groue<g ref="char:EOLhyphen"/>ling on the ground, to expresse the profound humility of his soule, and heauy load of our of<g ref="char:EOLhyphen"/>fences taken vpon him; kissing the whilst, and imbracing (as it were) the earth, in token of that happy peace, which he was pur<g ref="char:EOLhyphen"/>chasing for it.</p>
+            <p>Thrice in his prayer, he called
+<pb n="27" facs="tcp:15011:14"/> his Passion then approaching, a <hi>Chalice,</hi> by his Father prepared, to quench, no doubt, his ardent heat of loue, and thirsting desire, to honour him, &amp; redeeme vs, by his drinking of it.</p>
+            <p>When he cryed thrice, <hi>Abba Father, if it be possible, let this Cha<g ref="char:EOLhyphen"/>lice passe from me,</hi> he lent, as it were, a voyce to the sensuall, and infe<g ref="char:EOLhyphen"/>riour part of humane nature, full of feare, and loath to suffer such extremities of torments, as were then presented vnto it yet still he concluded his prayer, in saying, <hi>not my will but thyne, ô Father, be fulfilled,</hi> to shew withall, that his owne superiour, and deliberate Will, was euer with his Fathers, perfectly conformed.</p>
+            <p>And as interiourly he had re<g ref="char:EOLhyphen"/>iected all thoughts which might comfort him in his sufferings: so when his bloud, did naturally
+<pb n="28" facs="tcp:15011:15"/> runne, from the exteriour partes of his body, to comfort his hart, straightned with griefe, terrified, and oppressed; he repelled it back againe, with such a violent force, as he would rather opē the pores of his body, to let it gush forth through his garments, on the ground, then receaue any refre<g ref="char:EOLhyphen"/>shing from it.</p>
+            <p>Heere he began to treade the Wine-presse alone, and imbrued his humane Stole all ouer, as he had foretould by his Prophet. Heere, as our high Priest, he began to make an Offertory, su<g ref="char:EOLhyphen"/>table to his bloudy, and paynful sacrifice, consumated afterwards. Heer he entred into a strayt com<g ref="char:EOLhyphen"/>bat agaynst the intestine, and in<g ref="char:EOLhyphen"/>ward foes of humane Nature, as Tediousnes, Trouble of mynd, feare of harmes approching, and the like, to vanquish them for vs.</p>
+            <pb n="29" facs="tcp:15011:15"/>
+            <p>As he lay weltring in his bloud on the ground, faynting with the losse therof, and halfe dead, an Angell descēded from heauen to comfort him in so needfull an extremity, by lifting him vp (as we may conceaue) frō the groūd wiping his blessed face besmeared with sweat and bloud, drying his imbrued garments, and yielding such comfortable motiues vnto him as himself would not thinke on, to encourage him in his Pas<g ref="char:EOLhyphen"/>sion.</p>
+            <p>So as we may rightly call this bloudy Agony of our Sauiour, a voluntary tast of that bitter Chalice which he dranke vp af<g ref="char:EOLhyphen"/>terwards; a conuincing proofe, of humane Nature, truly by him, and passibly assumed; and a pra<g ref="char:EOLhyphen"/>ctical meanes, for him to expresse the bitter extremity of his ensu<g ref="char:EOLhyphen"/>ing torments: sithence a liuely
+<pb n="30" facs="tcp:15011:16"/> apprehension onely of them, was able to make Fortitude it selfe to faint, Courage grow feeble, Cō<g ref="char:EOLhyphen"/>stancy to shrincke, ardent Loue become cooled, as it were, for a tyme, and all enflamed desires of ascending his Crosse, turned into feares, anguishes of mynd, and a tedious loathnesse of dying, to redeeme vs: Whilst voluntarily, so, and for mysterious ends, he was graciously pleased to loose the bridle to humane passions, &amp; not at all (as easily he might haue done) superiourly restrain them.</p>
+         </div>
+         <div n="5" type="chapter">
+            <head>
+               <hi>CHAP. V.</hi> Of our Sauiours Apprehension, Jniu<g ref="char:EOLhyphen"/>ries sustained in <hi>Cayphas</hi> house, and <hi>S. Peters</hi> denying him.</head>
+            <p>THE Sonne of God, in the deliuery of himselfe to the Iewish souldiers sent to ap<g ref="char:EOLhyphen"/>prehend him, behaued himselfe
+<pb n="31" facs="tcp:15011:16"/> in a most diuine manner. First by manifesting his wisedome, in for<g ref="char:EOLhyphen"/>telling their comming to his slee<g ref="char:EOLhyphen"/>py disciples, and that <hi>Iudas</hi> as a Captayne, came before them, which exceedingly afflicted him.</p>
+            <p n="2">2. His greate Fortitude, in going onwards to meet them.</p>
+            <p n="3">3. His Maiesty and greatnes, in staying such furious troupes, not daring but awfully, &amp; with leaue to approach him.</p>
+            <p n="4">4. His Omnipotency in ca<g ref="char:EOLhyphen"/>sting them backward, halfe dead on the ground, by the dreadfull terrour of his great Name (<hi>Ego sum,</hi> I am he) vttered vnto them.</p>
+            <p n="5">5. His mansuetude, and mer<g ref="char:EOLhyphen"/>cy, in healing of <hi>Malchus</hi> eare, wounded before them.</p>
+            <p n="6">6. His Prouidence, &amp; Father<g ref="char:EOLhyphen"/>ly care, in freeing his disciples frō his aduersaries hāds before he would deliuer himselfe vnto thē.</p>
+            <pb n="32" facs="tcp:15011:17"/>
+            <p n="7">7. His Grauity and gracious Charity togeather, in reprehen<g ref="char:EOLhyphen"/>ding and letting them know, in how tumultuous and vnfitting a manner, they came to apprehend him, who was wont in preaching and doing miracles, to be con<g ref="char:EOLhyphen"/>uersant amongst them.</p>
+            <p>And then as God himselfe in humane nature, agaynst whome no created power could preuayle without his permission, <hi>Behould</hi> (sayd he) <hi>this is your houre, &amp; the power of darkenes,</hi> yielding him<g ref="char:EOLhyphen"/>selfe so, captiue vnto them, he resolued with a glad silence and patience, to suffer all sorts of tor<g ref="char:EOLhyphen"/>ments and disgraces, which the very Diuells could deuise, and their wicked instrumēts execute agaynst him.</p>
+            <p>They seized on him forthwith as bloud-hounds on their prey; bound him with ropes, haled
+<pb n="33" facs="tcp:15011:17"/> him with out-cryes towards the Citty, sparing not in the way, any forcible iniuryes, and outrages against him, as may be well ga<g ref="char:EOLhyphen"/>thered from those horrible villa<g ref="char:EOLhyphen"/>nyes &amp; painefull disgraces which in <hi>Anna's,</hi> and <hi>Caiphas</hi> houses, they vsed afterwards vnto him.</p>
+            <p>Where they blindfolded him with napkins, throwne ouer his face, willing perchance to be so couered, that his bewty hidden, might be the lesse spared, &amp; that he might not seeme to see, and note for reueng, such as buffeted him the whilst, as payned, and re<g ref="char:EOLhyphen"/>proached him.</p>
+            <p>At whose iniuries, and indigni<g ref="char:EOLhyphen"/>ties, he was far lesse troubled, thē at his beloued disciples fault, and fall, in his presence. For care<g ref="char:EOLhyphen"/>lesse then of himselfe, he could not but compassionate, &amp; seeke to remedy the distresses of his
+<pb n="34" facs="tcp:15011:18"/> friend; in so much as he roused himselfe vp, amidst his owne dis<g ref="char:EOLhyphen"/>graces, to raise him, &amp; betweene his buffets, and blindfoldings, he found a meanes, to cast a looke of wonted loue, and mercy on him. So as when with his tongue he could not, yet with his eyes he taught him to know the foulenes of his fault, and great ingratitude towards him. Viewing his face, he pierced his hart, and filled it with loue and sorrow, soueraigne me<g ref="char:EOLhyphen"/>dicines, speedily curing sinnes soarest woundings.</p>
+            <p>
+               <hi>S. Peter</hi> went out, as loathing the place, and detesting the occa<g ref="char:EOLhyphen"/>sion of his horrible sinne thrice cōmitted; the vsual signes in ho<g ref="char:EOLhyphen"/>ly Conuertits of harty repentāce.</p>
+            <p>He wept bitterly, as taught by inward graces, to know, that the deepe staynes of his sinnes, could not, but with such flouds
+<pb n="35" facs="tcp:15011:18"/> of ardent loue, and bitter sorrow, be throughly cleansed: His di<g ref="char:EOLhyphen"/>uine Lord so intending by occa<g ref="char:EOLhyphen"/>sion of sinne, to sanctify him the more; by cōtrition to heale him; by his fall to rayse him; and by loosing graces, more abundantly to restore them.</p>
+            <p>He meant to rayse a high buil<g ref="char:EOLhyphen"/>ding, in the soule of this Blessed Apostle, and permitted therfore, that which he had built already therein, to fall, that he might af<g ref="char:EOLhyphen"/>terwards laye a deeper founda<g ref="char:EOLhyphen"/>tion of humility in him; which before he wanted, when too pre<g ref="char:EOLhyphen"/>sumingly he tould his Maister, that although all others should forsake him, he alone would fol<g ref="char:EOLhyphen"/>low, and confesse him.</p>
+            <p>So husbandmen, seeing their corne growe ranck, before it be well rooted, turne in beasts, to haue it eaten to the bare earth
+<pb n="36" facs="tcp:15011:19"/> and deuoured. So Painters dash their workes, when they find vn<g ref="char:EOLhyphen"/>surely laid, the ground-colours of them.</p>
+            <p>And as nature hath wisely, and needfully ordayned, that high trees, should haue deep rootings, for the stability of them: so the Author therof, is euer carefull, to giue his holyest seruants, greatest humility, the necessary, &amp; nou<g ref="char:EOLhyphen"/>rishing roote of all vertues, ra<g ref="char:EOLhyphen"/>ther permitting them to fall into sinne (as S. <hi>Peter</hi> did) then to haue any little roote of pride, to grow within them, happly restoring graces lost, with this vertue of humility gayned, necessary to confirme them.</p>
+         </div>
+         <div n="6" type="chapter">
+            <pb n="37" facs="tcp:15011:19"/>
+            <head>
+               <hi>CHAP. VI.</hi> Of our Sauiours examination in <hi>Caiphas</hi> house, and pri<g ref="char:EOLhyphen"/>uate Condemnation.</head>
+            <p>OVr Blessed Sauiour, cōuen<g ref="char:EOLhyphen"/>ted before the high Priest, and chiefe Magistrates of the Iewes, for confessing himself to be the sonne of God, was to the future comfort of his belo<g ref="char:EOLhyphen"/>ued seruants, in their publique confessions of him, reuiled as a blasphemous person, spit vpon, &amp; as guilty of death solemnly con<g ref="char:EOLhyphen"/>dēned; well pleased in the meane while, and delighted to suffer for that, which was eternally to be so glorious vnto him.</p>
+            <p>He did not only tell <hi>Caiphas,</hi> being so deeply coniured by him as he was, that he was the Sonne of God, but withall insinuated in an humble manner, his second
+<pb n="38" facs="tcp:15011:20"/> comming, and the glory therof; wherin themselues, should with horrour and confusion be en<g ref="char:EOLhyphen"/>forced to acknowledge him; wherein the bright splendour of his face was by their fowle spit<g ref="char:EOLhyphen"/>tings to become increased; his heauēly beauties, by their buffets &amp; blowes, to appeare more glori<g ref="char:EOLhyphen"/>ous; his future honours eternal<g ref="char:EOLhyphen"/>ly to be aduanced by his tempo<g ref="char:EOLhyphen"/>rall disgraces; and his vniust con<g ref="char:EOLhyphen"/>demnation, recompensed by his being ordaynd the supreme Iud<g ref="char:EOLhyphen"/>ge of diuels &amp; mortall creatures.</p>
+            <p>The Bill of Inditement, fra<g ref="char:EOLhyphen"/>med that night agaynst him, cō<g ref="char:EOLhyphen"/>sisted of mistaken, and disagreing testimonies, easily afterward dis<g ref="char:EOLhyphen"/>couered by the Gentill Iudge, when he came to examine them. He was particularly strocken on the face by one of the high Priest seruāts, as hauing ouer-roughly
+<pb n="39" facs="tcp:15011:20"/> answered his mayster asking him of his doctrine, and disciples. But when our Lord vrged to haue the euill of his answere declared, his violent Accuser was put to silēce and shamefully confoūded; Veri<g ref="char:EOLhyphen"/>ty pleading for him, whome he had causelesly stroken, and Inno<g ref="char:EOLhyphen"/>cency excusing him.</p>
+            <p>Our Sauiour spake playnely, as he would haue his seruants to do, in their trialls, without retur<g ref="char:EOLhyphen"/>ning any contumelious words to their vniust Iudges or Accusers. Humility after the example of their great Lord must arme thē, patience harden them, wisedome guide them charity order them, and perseuerance crowne them, in holy combats, and paynefull trialls for him.</p>
+            <p>The High Priest tore his garments at our Sauiours con<g ref="char:EOLhyphen"/>fession of his Father, to signify
+<pb n="40" facs="tcp:15011:21"/> thereby, agaynst his will, that his high Priesthood was ended, and that a more diuine person, was there present, to alter that Law, and take this office, more amply vpō him: so as he was with his Priestly ornaments torne off from all power and dignity be<g ref="char:EOLhyphen"/>longing vnto them, instātly des<g ref="char:EOLhyphen"/>poyled; who had before, by ver<g ref="char:EOLhyphen"/>tue of his Office, prophecyed (as <hi>Balaam</hi> did) fortelling bles<g ref="char:EOLhyphen"/>sings in which himselfe was to be no sharer, to wit, <hi>that it was expe<g ref="char:EOLhyphen"/>dient one man should dye, that the whole people might not perish [Iohn</hi> 11.] foolishly heereupon deter<g ref="char:EOLhyphen"/>mining, to harme himselfe that others might be saued; as his whole natiō afterwards, by their haynous sin, in crucifying their Messias, &amp; reiecting the doctrin of life preached vnto them, made themselues miserable and others
+<pb n="41" facs="tcp:15011:21"/> blessed, by their fayth in him: their pouerty (saith the Apostle) was our riches, their ignominy our glory, their ruine our ray<g ref="char:EOLhyphen"/>sing, their iust reprobation our mercyfull, and happy election, occasioned by it.</p>
+         </div>
+         <div n="7" type="chapter">
+            <head>
+               <hi>CHAP. VII.</hi> Of our Sauiours Arraignement before <hi>Pilate.</hi>
+            </head>
+            <p>HE was early in the morning haled from <hi>Caiphas</hi> house, to <hi>Pilats</hi> Tribunall, with theeues and malefactours, there to be arraigned.</p>
+            <p>His chiefe Accusers, were the Princes themselues, and magistra<g ref="char:EOLhyphen"/>tes of the people, stirring vp the vulgar sort, by their authority, and example, against him.</p>
+            <p>They indited him of three as Capitall Crimes, as could be de<g ref="char:EOLhyphen"/>uised,
+<pb n="42" facs="tcp:15011:22"/> of <hi>Sedition,</hi> to wit, among the people, of <hi>Treason</hi> against <hi>Cae<g ref="char:EOLhyphen"/>sar,</hi> &amp; of <hi>Blasphemy</hi> towards God.</p>
+            <p>Their testimonies (sayth the Euangelist) agreed not, to proue their accusation; Verity pleading in Christs behalfe, whilst himself remayned silent; and Innocency protecting him.</p>
+            <p>His silence was noted by the Gentill Iudge, to haue proceeded from a magnanimous wisdome, and a charitable loathnes of con<g ref="char:EOLhyphen"/>tradicting, and disgracing the ru<g ref="char:EOLhyphen"/>lers of his people: and his humble answeres to his demaunds, did both satisfy, and amaze him.</p>
+            <p>To that capitall question (for exāple) whether he were a King or no, he boldly answered, Yes: but added withall, that his king<g ref="char:EOLhyphen"/>dome was not of this world, so as <hi>Caesar</hi> needed not to feare him.</p>
+            <p>To his other demaund like<g ref="char:EOLhyphen"/>wise,
+<pb n="43" facs="tcp:15011:22"/> whether or no he were the sonne of God? he professed him<g ref="char:EOLhyphen"/>selfe to haue been sent into this world, to testify this verity; and spake it with such a grauity, and maiesty, as it appaled his Iudge to heare, and see so great a person conuented before him, especially after he had beene warned from his wife, moued hereunto by a vision which she had seene, not to meddle in his condemnation: the Diuel euen then beginning to feare, that this Innocents suffe<g ref="char:EOLhyphen"/>rings, were ordayned, to become for mens sinnes, happy satisfa<g ref="char:EOLhyphen"/>ctions, his reproaches their ho<g ref="char:EOLhyphen"/>nours, his thraldom their liberty, his bands their loosing, his buf<g ref="char:EOLhyphen"/>fets their blessings, his accusa<g ref="char:EOLhyphen"/>tions their clearings, his cōdem<g ref="char:EOLhyphen"/>natiō their acquitting, his woun<g ref="char:EOLhyphen"/>des their healings, his agonies their comforts, his death their
+<pb n="44" facs="tcp:15011:23"/> life his merits finally their riches.</p>
+            <p>To free Christ from the sen<g ref="char:EOLhyphen"/>tence of death, <hi>Pilate</hi> exposed him to disgraces and torments, far more then death it selfe grieuous to his generous Nature; as to rancke him with <hi>Barabbas,</hi> send him to <hi>Herod,</hi> and deliuer him to his souldiers to be whipped and disgraced: H<gap reason="illegible" resp="#keyers" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>lfe hauing so ordayned, that the intended fa<g ref="char:EOLhyphen"/>uors of this corrupt Iudge, should proue painefull occasions, of re<g ref="char:EOLhyphen"/>doubling his dishonours &amp; tor<g ref="char:EOLhyphen"/>ments, only out of his ardent de<g ref="char:EOLhyphen"/>sire of suffering all he could, plen<g ref="char:EOLhyphen"/>tifully to redeeme vs.</p>
+            <p>The more frequently, and pu<g ref="char:EOLhyphen"/>bliquely <hi>Pilate</hi> testified his inno<g ref="char:EOLhyphen"/>cency to the Iewes, the more also cōuinced he them of furious ma<g ref="char:EOLhyphen"/>lice, and himselfe of base feare af<g ref="char:EOLhyphen"/>terwards in condemning him: for as he was faulty in yielding, so
+<pb n="45" facs="tcp:15011:23"/> were they more wicked in vrging him to commit so cruell an im<g ref="char:EOLhyphen"/>piety.</p>
+         </div>
+         <div n="8" type="chapter">
+            <head>
+               <hi>CHAP. VIII.</hi> Of our Sauiours whipping.</head>
+            <p>AS the sonne of God had humbly taken vpon him, the seruile forme of our nature: so was he graciously plea<g ref="char:EOLhyphen"/>sed therein, to vndergoe seruile punishment for vs.</p>
+            <p>
+               <hi>Whips due to a sinner</hi> (sayth the Prophet) <hi>are many.</hi> Wherefore, he who had takē vpō him, to satisfy for all sinners faults, was cōtented to haue mercilesse stripes multi<g ref="char:EOLhyphen"/>plied on him, &amp; to be painefully torne in all the parts of his natu<g ref="char:EOLhyphen"/>rall body, that all his mysticall members, might of their sinfull sores, be perfectly healed.</p>
+            <p>He was made naked before multitudes of people, to satisfy
+<pb n="46" facs="tcp:15011:24"/> therby, for our shamelesse man<g ref="char:EOLhyphen"/>ner of offending him.</p>
+            <p>He was tyed to a Pillar breast high, and fully exposed to the mercilesse fury of the souldiers, successiuely whipping him, to free vs from his Fathers heauier strokes, iustly deserued by our heinous &amp; innumerable offēces.</p>
+            <p>Blowes cruelly layd on, and multiplied, by his bloudy exe<g ref="char:EOLhyphen"/>cutioners, did widen, &amp; increase the number of his woundes: and the continuance of them, did cause streames of bloud, and pee<g ref="char:EOLhyphen"/>ces of flesh, torne from the ten<g ref="char:EOLhyphen"/>drest partes of his body, to fall on the ground togeather, as lamen<g ref="char:EOLhyphen"/>table ruines of that goodly tem<g ref="char:EOLhyphen"/>ple, then begining to be defaced &amp; trodden vnder hangmēs feete, to be by him, to whome they were offered, prized the more, to plead more effectually, &amp; serue
+<pb n="47" facs="tcp:15011:24"/> to obtayne Heauenly blessings, more abundantly for vs.</p>
+            <p>So Balme-trees are wont to be gashed, that their medicinall, and fragrant iuyce may runne more plentifully from them. So clouds do streame, to water barrayne places; so fields are plowed, and prepared, that seedes may grow vp afterwards fuitfully in them: for holy soules (deare Lord) may be rightly said, to grow in, and from thy woundes, fithence they receaue the nourishing moisture of heauenly graces chiefly from them, forces to resist temptatiōs, comfortes in their distresses, for<g ref="char:EOLhyphen"/>titude in their feares, and bold<g ref="char:EOLhyphen"/>nes in hard trials for thee.</p>
+            <p>Thy woundes (gracious Lord) in such as made, or procured them, were signes of horrible ha<g ref="char:EOLhyphen"/>tred, and cruelty; but in thy selfe gladly suffering them, they were
+<pb n="48" facs="tcp:15011:25"/> as so many rents, of thy ardent loue, breathed through them, fountaines of grace, and mouthes still open, to aske pardon for our sinnes, and heauenly graces for vs, not by any sound of words, but by streames of bloud, pow<g ref="char:EOLhyphen"/>red from them, which spilt on the earth, did not yield as Abels bloud is said to haue done, a voyce of reueng against the sin<g ref="char:EOLhyphen"/>full sheeders therof, but a loud &amp; louing cry of mercy gayned for them. And in vs, by our sinnes the chiefe causers of them, these woundes (sweet Redeemer) and painfull bloudshedings of thine, ought in all reason to be hart-breakings of sorrow &amp; compas<g ref="char:EOLhyphen"/>sion, motiues of gratitude and loue towards thee, silent instru<g ref="char:EOLhyphen"/>ctions, and vehement persuasions togeather, gladly in all occasions to suffer any thing for thee.</p>
+         </div>
+         <div n="9" type="chapter">
+            <pb n="49" facs="tcp:15011:25"/>
+            <head>
+               <hi>CHAP. IX.</hi> Of our Sauiours Crowning with thornes.</head>
+            <p>VVHat <hi>Jsay</hi> the Prophet had litterally <hi>[cap. 50.]</hi> long before vttered of the Iewes, and mysteriously of their king, and <hi>Messias,</hi> in his passiō, to wit, that from the soles of his feet, to the crowne of his head, he was filled with woundes, blewnesse, and swellings; could hardly haue been fulfilled, had not this horrible, &amp; disgracefull torment been deuised for him, to which he was drawne by the Ro<g ref="char:EOLhyphen"/>mane Souldiers, after his cruell whipping, into an inner Court of the Castle, that more freely there, out of the peoples sight, they might exercise their hatred against him; and for a ridiculous
+<pb n="50" facs="tcp:15011:26"/> nouelty, afterwards present him, to the view of the people, as a Counterfayt king crowned, and attyred disgracefully by them.</p>
+            <p>His Crowne was of sharp thor<g ref="char:EOLhyphen"/>nes, platted on his head, &amp; paine<g ref="char:EOLhyphen"/>fully tearing the tender temples therof: a Crowne indeed of pu<g ref="char:EOLhyphen"/>nishment and scorne, as these his enemies intended it: but to him that wore it, far more glorious, then earthly Princes richest dia<g ref="char:EOLhyphen"/>demes.</p>
+            <p>For wheras these are bare signes of an earthly Soueraignty only, our Sauiours Crowne (borne as it was by him) serued to increase the glory of an heauenly Em<g ref="char:EOLhyphen"/>pire, which for himselfe then, &amp; vs also, he was happly gayning.</p>
+            <p>Their Diadems are with pear<g ref="char:EOLhyphen"/>les, and other materiall stones ex<g ref="char:EOLhyphen"/>teriourly adorned: but this thor<g ref="char:EOLhyphen"/>ny one of our Sauiour, was with
+<pb n="51" facs="tcp:15011:26"/> pieces of torne flesh, and drops of his pretious bloud, incompa<g ref="char:EOLhyphen"/>rably more enriched. Which af<g ref="char:EOLhyphen"/>ter the manner of <hi>Egyptian</hi> Hie<g ref="char:EOLhyphen"/>rogliphs, cōtayning in them mi<g ref="char:EOLhyphen"/>sterious meanings, imported the supreme dominion, and power of him that wore it, by his humble patience, and charitable suffe<g ref="char:EOLhyphen"/>rings then obtayned.</p>
+            <p>It was both a Trophey (as we may well call it) and an Instru<g ref="char:EOLhyphen"/>ment, of gayning a higher Con<g ref="char:EOLhyphen"/>quest by him, then all the trium<g ref="char:EOLhyphen"/>phant victoryes of worldly Mo<g ref="char:EOLhyphen"/>narks put togeather; sithence in this, sinne, hell, death it selfe, and the Authour therof, were for vs to be happly vanquished.</p>
+            <p>It was that painefull, yet trium<g ref="char:EOLhyphen"/>phant Diademe, in which the ho<g ref="char:EOLhyphen"/>ly Prophet, inuiteth the daugh<g ref="char:EOLhyphen"/>ters of <hi>Hierusalem</hi> to behould him, to wit, holy Soules to ena<g ref="char:EOLhyphen"/>mour
+<pb n="52" facs="tcp:15011:27"/> themselues on him. It was the Crowne of our ambition, &amp; pride, cruelly platted, and often beaten into his head, with vile scornes and reproaches, that by such humiliations, dishonours, &amp; paynes he might satisfy for it. Wherby he worthily merited to haue his owne eternall crowne in heauen sit more glorious, and to haue all other Crownes there, throwne at his feet, as hauing been gayned by the merit of his passion.</p>
+            <p>The Roman Souldiers platted this Crowne on his head, yet his cruell Mother, the Iewish Sina<g ref="char:EOLhyphen"/>gogue, is said by the Prophet to haue put it on him, because as<g ref="char:EOLhyphen"/>well this, as his other disgracefull torments, were procured by her, <hi>[Cant. 3.] Go out</hi> (said he) <hi>O you daughters of Syon, and behould your King in the diademe with which his
+<pb n="53" facs="tcp:15011:27"/> mother crowned him in the day of his solemnity, and ioy of hart.</hi>
+            </p>
+            <p>The tyme of our Sauiours pas<g ref="char:EOLhyphen"/>sion, was a day to him of payne, &amp; sorrow, if his sufferings in them<g ref="char:EOLhyphen"/>selues be barely considered: but acccording to the louing moti<g ref="char:EOLhyphen"/>ues, and gracious effects of them, it was, no doubt, a day of solem<g ref="char:EOLhyphen"/>nity, most ioyfull vnto him; his extreamest agonyes and tormēts not neerely matching, in their multiplicity, and intension, the heauenly ardours of his blessed soule, &amp; longings to suffer them. Those compared to these, were as small drops cast into a huge fire, increasing rather then quenching the flaming forces of it: or as a small cruet of vinagre, put into a huge vessell of sweet wine, vna<g ref="char:EOLhyphen"/>ble in any sort to alter the co<g ref="char:EOLhyphen"/>lour or tast therof; his ardēt loue, &amp; goodnes, easily ouercomming,
+<pb n="54" facs="tcp:15011:28"/> and sweetning the cruell sharpe<g ref="char:EOLhyphen"/>nesse, and paynefull continuan<g ref="char:EOLhyphen"/>ce of them.</p>
+            <p>For as a stomakefull of soue<g ref="char:EOLhyphen"/>raygne cordialls and antidotes, easily reiecteth the strongst poy<g ref="char:EOLhyphen"/>sons receaued into it, or altering the harmefull forces of them, into holsome &amp; nourishing sub<g ref="char:EOLhyphen"/>stance: so the Sonne of God, hauing strengthned his humane hart, with the strange Antidote of patience, &amp; cordiall of diuine loue, towards his eternall Father and vs, did easily disgest, and delightfully nourish his euer ble<g ref="char:EOLhyphen"/>ssed soule, by his bitterest, and deadlyest torments: so as, they were like bullets, forcibly shot, into a strange rampiere, or bul<g ref="char:EOLhyphen"/>warke, rending the earth, (as the whips and thornes did teare the head and other parts of our Saui<g ref="char:EOLhyphen"/>ours body) but not harming the
+<pb n="55" facs="tcp:15011:28"/> defendāts within it; the Superior part of his soule, in all such bat<g ref="char:EOLhyphen"/>teryes of his fleshy, and sensitiue nature remayning vntouched, as one armed with tempred steele, outwardly feeleth the hittings of darts, cast forcibly at him, but feareth not to be wounded in<g ref="char:EOLhyphen"/>wardly by them.</p>
+         </div>
+         <div n="10" type="chapter">
+            <head>
+               <hi>CHAAP. X.</hi> Of our Sauiours Purple Garment, and Reedy Scepter.</head>
+            <p>AS cruelly the Roman Soul<g ref="char:EOLhyphen"/>diars had crowned the Son of God, by platting sharp thornes on his head: so did they contriue, as a counterfayt King, ridiculously to attire him, with a purple ragged garment, put on his torne backe, and a Cane for a Scepter in his hand; scornefully afterwards and painefully to de<g ref="char:EOLhyphen"/>rid him, by bending their knees,
+<pb n="56" facs="tcp:15011:29"/> spitting on his face, beating the thornes into his head, and doing coūterfayt reuerences vnto him.</p>
+            <p>The spouse in the Canticles [<hi>Cant.</hi> 5.] telleth vs, her Belo<g ref="char:EOLhyphen"/>ued was white, and red, in his excelling beautyes: which was not only mysteriously fulfilled of him, by the innocency of his lyfe, and paynefullnes of his sufferings; but litterally also by Herods white, and Pilates pur<g ref="char:EOLhyphen"/>ple garments put vpon him.</p>
+            <p>And wheras with them both, his enemyes intended to scorne, and deride him; by the infinite wisedome, and maiesty of him, that not casually, but volunta<g ref="char:EOLhyphen"/>rily, and for high ends, vouchsa<g ref="char:EOLhyphen"/>fed to weare thē (vsing humane malice, to effect his owne ordi<g ref="char:EOLhyphen"/>nation) they became signifi<g ref="char:EOLhyphen"/>cant, and mysterious Symbols, the one of his innocency, &amp; im<g ref="char:EOLhyphen"/>maculate
+<pb n="57" facs="tcp:15011:29"/> sanctity, and the other of his ardent, and excessiue cha<g ref="char:EOLhyphen"/>rity, most royally, and richly, in his sufferings appearing.</p>
+            <p>For, as cruell <hi>Herod's</hi> white Garment, had no colour cast on it, to stayne the naturall purity therof; so was the gracious can<g ref="char:EOLhyphen"/>dour of his soule that wore it, spotles, and vndefiled.</p>
+            <p>And as <hi>Pilats</hi> purple weed was so richly, and deeply grayned, as that beautifull colouring, in the raggednes therof vnalteredly re<g ref="char:EOLhyphen"/>mayned: so was likewise our Sa<g ref="char:EOLhyphen"/>uiours charity, so deeply fixed in his soule, &amp; constantly grayned, as in the raggednes, and woun<g ref="char:EOLhyphen"/>dings of his flesh, it most freshly, and gloriously appeared: many waters (as is sayd of him in the Canticles, <hi>Cant.</hi> 8.) being not able to extinguish his flames, or alter the deep dye of his wonted
+<pb n="58" facs="tcp:15011:30"/> loue towards vs, who regarded not so much the iuiuries don vn<g ref="char:EOLhyphen"/>to him, as the causes, and fruites of his suffering them. They put a reedy scepter in his hand, a con<g ref="char:EOLhyphen"/>temptible instrument, &amp; signe (as Sampsons Iawe-bone was) of a most triumphant victory, which this our heauenly Chāpion, was of his, and our hellish aduersary, then actually gayning. Wherein he was to wrest his proud Scep<g ref="char:EOLhyphen"/>ter from him, and depriue him of his tyrannicall, &amp; vsurped do<g ref="char:EOLhyphen"/>minion ouer soules.</p>
+            <p>This hollow reed, in so great a Conquerers hand, did fitly ex<g ref="char:EOLhyphen"/>presse, the emptines of Regall power heere on earth, &amp; the brit<g ref="char:EOLhyphen"/>tle pleasures which worldly scep<g ref="char:EOLhyphen"/>ters bring with them, trouble<g ref="char:EOLhyphen"/>some cares, impertinent vanities, &amp; most dangerous temptations, to such as glory most in them.</p>
+            <pb n="59" facs="tcp:15011:30"/>
+            <p>It represented also sinfull sou<g ref="char:EOLhyphen"/>les, empty of heauenly graces &amp; solid vertues, fraile, and shaken with all sortes of temptations; who taken into the powerfull hand of the Sonne of God, be<g ref="char:EOLhyphen"/>come by his graces, constantly setled, &amp; firmely growne, in hea<g ref="char:EOLhyphen"/>uenly perfection: and worthy then, to be caried, as so many scepters, and rich trophyes into his kingdome, from their infer<g ref="char:EOLhyphen"/>nall aduersaries cruell hands, vi<g ref="char:EOLhyphen"/>ctoriously snatched.</p>
+            <p>Finally, this ridiculous Scep<g ref="char:EOLhyphen"/>ter, merited a most glorious scep<g ref="char:EOLhyphen"/>ter for him that bore it, and ena<g ref="char:EOLhyphen"/>bled him to bestow afterwards, on his Princely adopted brethe<g ref="char:EOLhyphen"/>ren Regall and Eternall signes of maiesty and greatnes, gayned for them, by his owne scornes, and disgraces.</p>
+         </div>
+         <div n="11" type="chapter">
+            <pb n="60" facs="tcp:15011:31"/>
+            <head>
+               <hi>CHAP. XI.</hi> Of <hi>Pilats</hi> shewing of our Sauiour.</head>
+            <p>
+               <hi>BEhould</hi> (said <hi>Pilat) the man,</hi> shewing Christ to the Iewes, so abused by his souldiers, as he had scarsly the discernable forme of a man left remayning in him, according to that com<g ref="char:EOLhyphen"/>plaint, which himselfe long be<g ref="char:EOLhyphen"/>fore made by his Prophet saying: <hi>J am a worme and no man, the re<g ref="char:EOLhyphen"/>proach of men, and out-cast of the people;</hi> to signify therby, that his cruell aduersaries, had shewed no humane respect, or charity to<g ref="char:EOLhyphen"/>wards him, more then to a wor<g ref="char:EOLhyphen"/>me of the earth, carelesly tram<g ref="char:EOLhyphen"/>pled, and trodden on.</p>
+            <p>He would not be pittyed him<g ref="char:EOLhyphen"/>selfe, that he might purchase par<g ref="char:EOLhyphen"/>don and pitty for vs more abun<g ref="char:EOLhyphen"/>dantly: and to spare vs in all kinds he would in no kind be spared.</p>
+            <pb n="61" facs="tcp:15011:31"/>
+            <p>His dearest friends were scan<g ref="char:EOLhyphen"/>dalized, and scattered. His fame by slaunderous accusations, was blotted, and obscured. His do<g ref="char:EOLhyphen"/>ctrine belyed; his miracles dis<g ref="char:EOLhyphen"/>graced; his clayme of Diuine Maiesty, as a blasphemy condem<g ref="char:EOLhyphen"/>ned; his flesh torne; his bloud shed, and trodden vnder hang<g ref="char:EOLhyphen"/>mens feet; his louely beauties defaced; the hayre of his head and beard clotted, and glewed togeather with gore bloud; his face all ouer besmeared; finally the delicat proportiō of his limbs marred with swellings, rags of his flesh halfe cut off, and wide ga<g ref="char:EOLhyphen"/>shes made in him; so as no Pain<g ref="char:EOLhyphen"/>ters pensill, or humane imagina<g ref="char:EOLhyphen"/>tion almost can describe him, in a more lamentall case, then that wherein <hi>Pilat</hi> to the Iewes pu<g ref="char:EOLhyphen"/>blikly presented him; to equall then, and afterwards by new de<g ref="char:EOLhyphen"/>facings,
+<pb n="62" facs="tcp:15011:32"/> as he could, the spirituall deformities, and festered woun<g ref="char:EOLhyphen"/>des caused by sinne, in mens sou<g ref="char:EOLhyphen"/>les, and consciences.</p>
+            <p>The sight of him, so merciles<g ref="char:EOLhyphen"/>ly abused, auayled nothing for mouing the Iewes, to any com<g ref="char:EOLhyphen"/>passion towards him, but rather enraged them the more, and in<g ref="char:EOLhyphen"/>creased their bloudy out-cryes against him; <hi>Take him away, Cru<g ref="char:EOLhyphen"/>cify him,</hi> as hungry bloud-houn<g ref="char:EOLhyphen"/>des, most eagerly spend their mouthes, and hoatly pursue the chased Deere, emboss't, bleeding and almost spent before them.</p>
+            <p>This mercilesse people, regar<g ref="char:EOLhyphen"/>ded not what our Sauiour had already suffered, but attended stil vtterly to destroy him; so, con<g ref="char:EOLhyphen"/>trary the whilst to them, in his intentions, and affections, as in goodnes he excelled them.</p>
+            <p>His mansuetude, he opposed
+<pb n="63" facs="tcp:15011:32"/> to their malice, his Patience to their fury, his Charity to their hatred, his silence to their out-cries, his readines to suffer fur<g ref="char:EOLhyphen"/>ther disgraces and torments, to their greedines in procuring them; &amp; he was in all these kinds victorious against them, as being no more apte, in his goodnes, then in his power, to be ore-mat<g ref="char:EOLhyphen"/>ched, whose sufferinges were as his speaches, and actions. <hi>Thean<g ref="char:EOLhyphen"/>dricall, Heroicall,</hi> and fitly besee<g ref="char:EOLhyphen"/>ming the infinite perfection, and maiesty of his person. So as from his silent, wise, and mysterious behauiours in them, the Roman Centurion was moued, in his death, to attribute aswell Deity, as Sanctity vnto him: and holy soules do draw high lessons, hea<g ref="char:EOLhyphen"/>uenly documents, &amp; happy com<g ref="char:EOLhyphen"/>forts from them. Wheras secular soules puffed vp with pride, lulled
+<pb n="64" facs="tcp:15011:33"/> with ease, &amp; dulled with sensuall contentments, coldly conceaue the glory of their Redeemers Crosse, or seldom reflect on those eminent vertues, which he exer<g ref="char:EOLhyphen"/>cised thereon; harbour in their harts, few, and cold memories of gratitude: towards him, and neuer feele any enflamed desires, to imitate his holy pouerty, pro<g ref="char:EOLhyphen"/>found humility, wonderfull pa<g ref="char:EOLhyphen"/>tience, heroicall fortitude, &amp; ar<g ref="char:EOLhyphen"/>dent charity towards them.</p>
+         </div>
+         <div n="12" type="chapter">
+            <head>
+               <hi>CHAP. XII.</hi> Of our Sauiours Condemnation.</head>
+            <p>
+               <hi>SHall I</hi> (said <hi>Pilate</hi> answering the Iewes in their malicious out-cryes) <hi>crucify your King?</hi> A King indeed, borne to inherit himselfe, and to bestow vpon him faithfull followers, and seruants, an eternall Kingdome. A King who by Angells themselues, for
+<pb n="65" facs="tcp:15011:33"/> his maiesty, was reuerenced, for his wisedome extolled, for his goodnes beloued, for his power admired, for his sanctity honou<g ref="char:EOLhyphen"/>red, for his bounty praysed, for his victoryes glorified, &amp; magni<g ref="char:EOLhyphen"/>fied much more for his painefull purchase, and humble manner of gayning them.</p>
+            <p>A King for the glory, and sal<g ref="char:EOLhyphen"/>uation of mankind, promised to the Patriarkes, foretould by the Prophets, and expected by the Iewes themselues: so as the Deity of his person, the Sanctity of his life, the purity of his doctrine, his miraculous actions to confirme it, the fruites of his comming, the glory of his Kingdom, and o<g ref="char:EOLhyphen"/>ther particuler verities of him, were in those Scriptures, which they belieued, and read dayly, playnely conteyned.</p>
+            <p>Yet heere they renounced him,
+<pb n="66" facs="tcp:15011:34"/> and cryed, <hi>we haue no King but Cae<g ref="char:EOLhyphen"/>sar,</hi> a most blouddy Tyrant, ha<g ref="char:EOLhyphen"/>ter &amp; oppressour of them: resem<g ref="char:EOLhyphen"/>bling in this their foolish, and wicked election the like folly of other sinners, contented to for<g ref="char:EOLhyphen"/>sake, by sinne, their omnipotent Creatour, dearely louing and de<g ref="char:EOLhyphen"/>sirous by his graces to saue them; and adhering to their Capitall enemy, greedy of nothing, more then eternally to ruine them.</p>
+            <p>Some of greatest authority (as it should seeme) fearing that <hi>Pi<g ref="char:EOLhyphen"/>late,</hi> after such cruell vsages, might be inclined to spare him, vrged Christs death more roun<g ref="char:EOLhyphen"/>dely, by telling him plainely, <hi>that if he spared him, he was not Caesars frend, because he that made himselfe a king, was an enemy vnto him.</hi>
+            </p>
+            <p>This speach preuailed, for his speedy condemnation. <hi>Innocency</hi> professed by the Iudge himselfe,
+<pb n="67" facs="tcp:15011:34"/> protected not the sonne of God. <hi>Iustice,</hi> was by so great a Magi<g ref="char:EOLhyphen"/>strate through base feare, vtterly neglected; <hi>Conscience</hi> trodden vn<g ref="char:EOLhyphen"/>der foote, <hi>Compassion</hi> forgotten, and <hi>Malice</hi> against naturall good<g ref="char:EOLhyphen"/>nes, manifestly preuailed.</p>
+            <p>
+               <hi>Pilate</hi> washed his hands, but not his hart from the heauy guilt of condemning an Innocent. He cleared not himselfe, by this Ce<g ref="char:EOLhyphen"/>remony, of his owne fault, but shewed theirs who had vrged him to it, to haue byn much the grea<g ref="char:EOLhyphen"/>ter: and by crying out, <hi>that he was innocent of the bloud of that iust man, bidding them to looke to it,</hi> he gaue them a sad occasion, of pro<g ref="char:EOLhyphen"/>nouncing against themselues, and their whole posterity, the heauy doome of reprobation, when for an answere to <hi>Pilates</hi> warning, they cried out, <hi>His bloud be on vs, and our Children.</hi>
+            </p>
+            <pb n="68" facs="tcp:15011:35"/>
+            <p>This horrible cry, entred farre more dreadfully, then any thun<g ref="char:EOLhyphen"/>derbolt could haue done from the eares, to the hart of our Sa<g ref="char:EOLhyphen"/>uiour, grieued therewith, far more, then with all his agonies &amp; torments; So as, he could not forbeare, in his said iourney to Mount-Caluary, from vttering his griefe, to certayne deuour, women of <hi>Hierusalem</hi> deploring his distresse, bidding them, <hi>not to weep on him, but on themselues, and their Children,</hi> cruelly murdered by their wicked Parents in soule before their natiuities, secluded from partaking, in any sort, the happy fruites of his comming, &amp; horribly designed, to be the mi<g ref="char:EOLhyphen"/>serable subiects of his Fathers eternall indignation, in reuenge of his only sonne murdered most detestably by them.</p>
+         </div>
+         <div n="13" type="chapter">
+            <pb n="69" facs="tcp:15011:35"/>
+            <head>
+               <hi>CHAP. XIII.</hi> Of our Sauiours bearing his Crosse to Mount <hi>Caluary.</hi>
+            </head>
+            <p>THe Sonne of God, con<g ref="char:EOLhyphen"/>demned togeather with two theeues, to be crucified on Mount <hi>Caluary,</hi> had (as the E<g ref="char:EOLhyphen"/>uangelists tell vs) the heauy bur<g ref="char:EOLhyphen"/>den of his Crosse layde on him, fainting vnder it, through fee<g ref="char:EOLhyphen"/>blenes; so as another was cōstray<g ref="char:EOLhyphen"/>ned by the souldiers on the way, to carry a part therof with him.</p>
+            <p>His cruell Executioners meant to punish him, by burdening him therwith, but himselfe had ther<g ref="char:EOLhyphen"/>in higher endes, for which their great malice, conueniently serued him.</p>
+            <p>The Prophet <hi>Jsay</hi> (for exam<g ref="char:EOLhyphen"/>ple) had foretould long before, <hi>[cap. 1.]</hi> that this new Prince &amp; God with vs, <hi>should carry his Sce<g ref="char:EOLhyphen"/>pter
+<pb n="70" facs="tcp:15011:36"/> on his shoulders,</hi> which was in carrying his Crosse, not only a bare signe, but also a chiefe in<g ref="char:EOLhyphen"/>strument, of gayning ouer sou<g ref="char:EOLhyphen"/>les an Eternall dominion, myste<g ref="char:EOLhyphen"/>riously fulfilled.</p>
+            <p>His Crosse, was that mysticall Key of <hi>Dauid,</hi> by which we was about, to open the foure gates of Heauen, that from the foure windes, and corners of the earth, soules might enter afterwards through them.</p>
+            <p>It was, as a miraculous Rod, in heauenly <hi>Moyses</hi> hand, wher<g ref="char:EOLhyphen"/>by he was to worke wonders, &amp; open the Red Sea, for the deliue<g ref="char:EOLhyphen"/>ry of his people.</p>
+            <p>It was as <hi>Dauids</hi> Staffe, with which he combatted against the infernall <hi>Golias,</hi> and vanquished him for vs.</p>
+            <p>It was a mysterious tree of life, by eating the fruit wherof, earth<g ref="char:EOLhyphen"/>ly
+<pb n="71" facs="tcp:15011:36"/> soules, were to become hea<g ref="char:EOLhyphen"/>uenly, cleansed by grace, glo<g ref="char:EOLhyphen"/>rious, and immortall.</p>
+            <p>It was that stately Palme-tree, which the spouse in the Canticles ascended, commending the frui<g ref="char:EOLhyphen"/>tes therof, for holsome and deli<g ref="char:EOLhyphen"/>cious.</p>
+            <p>It was as a Throne of Maiesty, on which the King of glory was to be raysed, to draw all harts in the chaynes of loue forcibly vn<g ref="char:EOLhyphen"/>to him.</p>
+            <p>It was a Bride-bed whereon this heauenly Louer of Soules, meant to purify, imbrace, and enamour them, on him.</p>
+            <p>It was finally, his high Tribu<g ref="char:EOLhyphen"/>nall purposely erected (as himself sayd in the Ghospell) that the world might be iudged by him thereon, the Prince of darknes cast out from his vsurped domi<g ref="char:EOLhyphen"/>nion, &amp; a satisfaction more then
+<pb n="72" facs="tcp:15011:37"/> sufficient offered, to free men from sin, and regayne more then lost graces for them.</p>
+            <p>Weaknes caused by his bloud lost, made him to faynt vnder so heauy a burden; yet a louing de<g ref="char:EOLhyphen"/>sire to carry it, made him to haue a part therof still on him impo<g ref="char:EOLhyphen"/>sed. And that he permitted <hi>Symon Cyrenensis</hi> to carry it with him, was a mysterious charity, graci<g ref="char:EOLhyphen"/>ously in him affoarded to vs al<g ref="char:EOLhyphen"/>so, to share with him in the car<g ref="char:EOLhyphen"/>ryage of his Crosse, and glory of his Passion.</p>
+            <p>It is sayd, he imprinted on the way to <hi>Mount Caluary,</hi> the forme of his face in a cleane Towel, sent vnto him of charity to wipe it a giuing holy soules therby to vn<g ref="char:EOLhyphen"/>derstand, that they should euer carry, a louely Image of their crucifyed Lord, framed within them, most beautifully appearing
+<pb n="73" facs="tcp:15011:37"/> as he was in his passion, defaced most for them.</p>
+            <p>His companions were twoo Theeues, ledde on the way by their bloudy Executioners, and guarded with troopes of soul<g ref="char:EOLhyphen"/>diers going before, and making way for them; vnfit attendants on the sonne of God, in so solemne a Procession.</p>
+            <p>In his often faintings vnder his Crosse, he was no more spa<g ref="char:EOLhyphen"/>red from stripes and blowes then on <hi>Mount-Caluary,</hi> in his thirst he was pittyed, by gaule, and vi<g ref="char:EOLhyphen"/>nagre giuen vnto him, whilst like a louing Nurse he was willing to take bitter potions himselfe, that his sicke children, for their perfect cure might in sweet milk afterwards receaue them.</p>
+            <p>To ease vs, he cared not him<g ref="char:EOLhyphen"/>self to be diseased; to heale vs he was glad himself to be wounded;
+<pb n="74" facs="tcp:15011:38"/> and by graces to reuiue vs, he was with all sortes of torments, and disgraces willingly butchered, &amp; abused.</p>
+         </div>
+         <div n="14" type="chapter">
+            <head>
+               <hi>CHAP. XIV.</hi> Of his being stripped, and Crucified.</head>
+            <p>OVr Sauiour, had no sooner ended his painefull iourney to <hi>Mount-Caluary,</hi> but his bloudy Executioners, were with new torments, ready to enter<g ref="char:EOLhyphen"/>tayne him.</p>
+            <p>First, by plucking off his gar<g ref="char:EOLhyphen"/>ments, with rags of torne flesh, &amp; gore bloud, sticking vnto them: So that his stripping, was a new whipping, painefull vnto him.</p>
+            <p>Then in his extreme thirst (as I haue said before) they drenched him with gaule, that his sense of tasting might not by the clam<g ref="char:EOLhyphen"/>minesse, and distast therof, want a particuler torment, to satisfy for
+<pb n="75" facs="tcp:15011:38"/> our gluttonous excesses; and <hi>Da<g ref="char:EOLhyphen"/>uids</hi> Propheticall complaint, vt<g ref="char:EOLhyphen"/>tered in our Sauiours person long before, litterally fulfilled saying, <hi>[Psal. 21.] They ministred vnto me gaule for food, and in my thirst, they gaue me vinagre to drinke;</hi> the one mysteriously im<g ref="char:EOLhyphen"/>porting the cause, which was Malice; the other the effect, and sharpenes of his torments.</p>
+            <p>Naked then, &amp; full of wounds they threw him on his Crosse, and with great nay les fastned him thereunto, that his very formely<g ref="char:EOLhyphen"/>ing theron, might fitly represent his affections towards vs, for whome he was nayled.</p>
+            <p>His armes (for example) in this painefull posture, were widely opened, as euer ready louingly to imbrace vs. And his feet fast nailed togeather, shewed him not ready, at any time, to leaue vs.</p>
+            <pb n="76" facs="tcp:15011:39"/>
+            <p>His hands, bored through the tender palmes therof, were like two boles of warme bloud, sacri<g ref="char:EOLhyphen"/>ficed by our high Priest, &amp; gra<g ref="char:EOLhyphen"/>ciously prepared to cleanse, and sanctify faythfull soules after<g ref="char:EOLhyphen"/>wards with it.</p>
+            <p>And the foure streames, flow<g ref="char:EOLhyphen"/>ing from his sacred woundes were as foure springs, rising from the depth of this earthly Para<g ref="char:EOLhyphen"/>dise, to water, cleanse, and make fruitfull holy soules, humbly and penitently approaching him.</p>
+            <p>The more contemptibly his sacred bloud was trampled on the ground by the hangmen, and souldiers, the more was it prized by him, for whose glory it was thus shed, and highly enhaunsed in the valew therof, for our E<g ref="char:EOLhyphen"/>ternall Redemption.</p>
+            <p>
+               <hi>Salomons</hi> sumptuous Temple, was so built, as no noyse of ham<g ref="char:EOLhyphen"/>mers,
+<pb n="77" facs="tcp:15011:39"/> is sayd to baue been heard in the raysing therof: but it was not without <hi>Engines</hi> by the <hi>Assy<g ref="char:EOLhyphen"/>rians</hi> afterwards, and other forci<g ref="char:EOLhyphen"/>ble deuises shaken, and defaced. So the goodly temple of our Sa<g ref="char:EOLhyphen"/>uiours body, was in his mothers wombe, without humane coope<g ref="char:EOLhyphen"/>ration miraculously raysed: but in his passion it was not without gashes of whips, rending of thor<g ref="char:EOLhyphen"/>nes, beatinge of hammers, fast<g ref="char:EOLhyphen"/>ning of nayles, and other paine<g ref="char:EOLhyphen"/>full violencyes, lamentably de<g ref="char:EOLhyphen"/>stroyed.</p>
+            <p>The posture of our Sauiours body nayled on his Crosse, is no<g ref="char:EOLhyphen"/>ted by a graue Authour, to haue byn like a Cross bow bent, moū<g ref="char:EOLhyphen"/>ted vpwards towards Heauen, when theron he was raysed. The Nutt thereof was his hart, from whence dartes of loue, were con<g ref="char:EOLhyphen"/>tinually loosed, and towards his
+<pb n="78" facs="tcp:15011:40"/> Fathers bosome graciously di<g ref="char:EOLhyphen"/>rected; by whome they were, for what he would aske, louingly accepted.</p>
+            <p>Like vnto two propitious, and fauourable Planets, boding all good and happines towards vs, the diuine Father, &amp; Sonne, mu<g ref="char:EOLhyphen"/>tually then beheld ech other: and their reciprocall acts of loue, re<g ref="char:EOLhyphen"/>dounded in their gracious effects happily on vs.</p>
+            <p>The Sonne of God, as he was man, loued vs dearely, and died willingly for vs, because his Fa<g ref="char:EOLhyphen"/>ther had giuen vs, so to be by him redeemed; as he tould his disci<g ref="char:EOLhyphen"/>ples after his last supper, expres<g ref="char:EOLhyphen"/>sing the high motiue of his ar<g ref="char:EOLhyphen"/>dent loue towards them: and the diuine Father for his beloued sonnes sake, with singular loue, and wonderfull mercy, euer res<g ref="char:EOLhyphen"/>pected vs. So that, as long as the
+<pb n="79" facs="tcp:15011:40"/> sonne loueth his Father, we are sure he will loue vs, by him re<g ref="char:EOLhyphen"/>commended; and so long like<g ref="char:EOLhyphen"/>wise, as the Father loueth his sonne, he will vndoubtedly con<g ref="char:EOLhyphen"/>tinue his loue, first &amp; chiefly be<g ref="char:EOLhyphen"/>gunne, for his sake towards vs; and adopt vs, by the holy merits of our Redeemers life and death, heyres of his heauenly kingdom, sharers likewise of Beatitude e<g ref="char:EOLhyphen"/>ternally with him, according to that of the Apostle: <hi>he hath elected vs in him, before the beginning of the world.</hi>
+            </p>
+         </div>
+         <div n="15" type="chapter">
+            <head>
+               <hi>CHAP. XV.</hi> Of our Sauiours first Words vttered on the Crosse, and Prayer for his Enemyes.</head>
+            <p>THis bēt Crosse-bow of loue and mercy (as I may rightly tearme our Sauiour, han<g ref="char:EOLhyphen"/>ging on his Crosse, according to
+<pb n="80" facs="tcp:15011:41"/> my former comparison) was no sooner lifted vp towards Hea<g ref="char:EOLhyphen"/>uen, but that from the Nut of his hart, was loosed a burning dart of charitable Loue, towards his enemyes, <hi>Father forgiue them for they know not what they do;</hi> excu<g ref="char:EOLhyphen"/>sing so, as he could, and crauing pardon for them, actually then busied vnder his very Crosse, in blasphemies, derisions, &amp; outra<g ref="char:EOLhyphen"/>ges against him. And what could not so beloued a sonne, reposing in his Fathers bosome, as he was God, &amp; crucified as he was man, obtayne as he listed, powerfully for them?</p>
+            <p>Certainly (as great Authours haue obserued) this out-cry of Charity, made in such circum<g ref="char:EOLhyphen"/>stances by the sonne of God, had a happy effect afterwards to saue many thousands of that repro<g ref="char:EOLhyphen"/>bate people, &amp; many of them al<g ref="char:EOLhyphen"/>so,
+<pb n="81" facs="tcp:15011:41"/> who had concurred to his death, as appeareth by <hi>S. Peters</hi> speach in Pentecost, vnto them. It stayed the subuersion of their Temple, &amp; Citty vntill fourty yeares after his death, and caused <hi>Hierusalem,</hi> whilst it stood, to be the primitiue Nursery of innu<g ref="char:EOLhyphen"/>merable Saintes, exēplar in their liues, and glorious in their suffe<g ref="char:EOLhyphen"/>rings.</p>
+            <p>Some also since, by an ouer<g ref="char:EOLhyphen"/>flowing of his gracious mercy, haue been saued in ech age, of this reprobate people; and their generall conuersion before the worlds end, is (as <hi>S. Paul</hi> telleth vs, <hi>[Rom. 4.]</hi> by the vertue of our Sauiours prayer, by him to whome he prayed, mercifully in<g ref="char:EOLhyphen"/>tended.</p>
+            <p>Their Hatred could not ouer<g ref="char:EOLhyphen"/>come his Loue, their Fury his Patience, their Malice his Good<g ref="char:EOLhyphen"/>nes,
+<pb n="82" facs="tcp:15011:42"/> mouing him no otherwise to pitty them in their desperate fol<g ref="char:EOLhyphen"/>lies, then louing mothers are cō<g ref="char:EOLhyphen"/>tented, to beare with the way<g ref="char:EOLhyphen"/>ward dispositions of their disea<g ref="char:EOLhyphen"/>sed Children, and wise <hi>Phisitians</hi> patiently to suffer the frantick fits of their distracted Patients.</p>
+            <p>He regarded not (sayth <hi>S. Au<g ref="char:EOLhyphen"/>gustine</hi>) from whome, but for whome he suffered his agonyes, disgraces, and torments.</p>
+            <p>In so much as the very Gen<g ref="char:EOLhyphen"/>tills themselues, and immediate Authors of his death, were not by him secluded from the fruites of his passion: sit hence the very Captayne of the Souldiers that crucified him, was moued inte<g ref="char:EOLhyphen"/>riourly by grace, openly to con<g ref="char:EOLhyphen"/>fesse him to haue been the sonne of God, innocently killed, to the confusion, and shame of his cruell Aduersaries present.</p>
+            <pb n="83" facs="tcp:15011:42"/>
+            <p>In whose charitable prayer, we also were mercifully included: and it still serueth to excuse vs, in sinnes committed against him, supposing euer a practicall igno<g ref="char:EOLhyphen"/>rance of their dreadfull conse<g ref="char:EOLhyphen"/>quences, and his infinite maiesty offended by them.</p>
+            <p>It grieued the sonne of God much, that his comming to saue his people, with a particuler ten<g ref="char:EOLhyphen"/>dernes of loue towards them, should by their owne willfulnes and desperate malice proue a fa<g ref="char:EOLhyphen"/>tall, and lamentable occasion, more deeply to condemne them. And it grieued him little lesse, to fore-see, how carelesse faithfull soules would be afterwards, to accept, and vse to their eternall good, those wonderfull graces, which so dearely, and painefully he purchased for them.</p>
+            <p>These, and the like thoughts,
+<pb n="84" facs="tcp:15011:43"/> of his beloued Father, gracelesse<g ref="char:EOLhyphen"/>ly, and vngratefully offended by men obliged infinitly vnto him, were sharper edges of sorrow, &amp; more deeply entred his soule, thē his exteriour sufferings; so that whereas he hung only three hou<g ref="char:EOLhyphen"/>res on his Crosse, his Charity was such, as he could most willingly haue remayned so many milliōs of yeares (had his Father been pleased) therby to haue more vniuersally redeemed vs.</p>
+            <p>And for this cause, the win<g ref="char:EOLhyphen"/>dowes, of <hi>Salomons</hi> mysterious Temple, are said (as a holy Au<g ref="char:EOLhyphen"/>thour obserueth) to haue been larger within, then outwardly they seemed; to signify vnto vs, that our Redeemers woundes, were interiourly enlarged, mul<g ref="char:EOLhyphen"/>tiplyed, and continued, accor<g ref="char:EOLhyphen"/>ding to his enflamed charity, and will of suffering for vs.</p>
+         </div>
+         <div n="16" type="chapter">
+            <pb n="85" facs="tcp:15011:43"/>
+            <head>
+               <hi>CHAP. XVI.</hi> Of Christs second Speach on the Crosse, vttered to his holy Mother and beloued Disciple.</head>
+            <p>IT was wisely no doubt by our Creatour, &amp; conueniently or<g ref="char:EOLhyphen"/>dayned, that the Blessed Vir<g ref="char:EOLhyphen"/>gin should with her Sonne in his sufferings be conioyned: that as our two earthly Progenitours, had sinfully concurred to con<g ref="char:EOLhyphen"/>demne vs; so likewise our hea<g ref="char:EOLhyphen"/>uenly new Parents should be graciously combined, to saue vs: yet in a different manner.</p>
+            <p>For as <hi>Eue</hi> our old Mothers fault, procured not our condem<g ref="char:EOLhyphen"/>nation, but by drawing her hus<g ref="char:EOLhyphen"/>band thereinto, she miserably occasioned it: so <hi>Mary</hi> (whome for being mother to Christ we may well call our new Parent) wrought not our redemption, by
+<pb n="86" facs="tcp:15011:44"/> her sufferings, but concurred with her sonne, happly vnto it.</p>
+            <p>
+               <hi>Eue</hi> sensually delighted her<g ref="char:EOLhyphen"/>selfe, in behoulding, plucking, &amp; tasting the forbidden fruit, ioy<g ref="char:EOLhyphen"/>ing to see her husband likewise eate it; and therfore, to satify in a sort for her sinfull content<g ref="char:EOLhyphen"/>ments, <hi>Mary,</hi> as a new Mother, was contrarily ordayned, to behould the blessed fruit of her wombe, fastned to the tree of the Crosse, and with painefull tor<g ref="char:EOLhyphen"/>ments, killed theron, to her vn<g ref="char:EOLhyphen"/>speakable affliction.</p>
+            <p>The Euangelists do not tell vs that this Blessed mother of our heauenly Redeemer, was present at any of her sonnes torments, ex<g ref="char:EOLhyphen"/>cept his crucifixion: yet may we probably ghesse her to haue ben a sad spectatour of all such, as were publikely on him inflicted, and in his paynefull iourney to
+<pb n="87" facs="tcp:15011:44"/>
+               <hi>Mount Caluary,</hi> one, &amp; the chie<g ref="char:EOLhyphen"/>fest of his dolefull attendants: where when other friends stood a farre of from him, as he had cō<g ref="char:EOLhyphen"/>playned by his Prophet; she vn<g ref="char:EOLhyphen"/>der the very armes of his Crosse, in presence (so nigh as she could) and patience, vnited her selfe with him, whilst sorrowes shar<g ref="char:EOLhyphen"/>pest sword, which <hi>Simeon</hi> had foretould her, entred deeply in<g ref="char:EOLhyphen"/>to her soule, and made her feele therin, by a most aflictiue &amp; ten<g ref="char:EOLhyphen"/>der compassion, her sonnes bo<g ref="char:EOLhyphen"/>dily woundings, and torments.</p>
+            <p>Who the whilst, is not sayd, to haue falne into soūdings, out<g ref="char:EOLhyphen"/>cryes, and passionate behauiours, as Paynters vnder the Crosse are wont foolishly to expresse her: but contrarily, that she stood si<g ref="char:EOLhyphen"/>lently, and patiently neere him, opening (as it were) her breast, with an heroicall fortitude, to
+<pb n="88" facs="tcp:15011:45"/> the deadlyest stroakes, which griefe could lay theron; as being thereunto by her dying diuine Sonne supernaturally assisted, to offer, no doubt, mysteriously, that great Sacrifice with him: as <hi>S. John</hi> was ordayned to be there also present, that as an eye-wit<g ref="char:EOLhyphen"/>nesse, he might authentically in his Ghospell, record the payne<g ref="char:EOLhyphen"/>full order of his Lords suffe<g ref="char:EOLhyphen"/>rings vnto vs.</p>
+            <p>Christ prayed on his Crosse, first for his enemies, because they stood in greatst need of his Cha<g ref="char:EOLhyphen"/>rity towards them: and next, he cast his eyes and hart on his Mo<g ref="char:EOLhyphen"/>ther and Disciple, as on two friends dearest of all others vnto him, saying to her, first, as chie<g ref="char:EOLhyphen"/>fest of the two, and most meriting his compassion: <hi>Woman, behould thy Sonne:</hi> and then to him: <hi>Be<g ref="char:EOLhyphen"/>hould thy Mother.</hi> He called her
+<pb n="89" facs="tcp:15011:45"/> not Mother, lest by so naming her he might haue caused his spitgh<g ref="char:EOLhyphen"/>full aduersaries, vnfittingly to haue abused her: and noting her perchance withall, to haue been that victorious woman contrary to <hi>Eue,</hi> in her graces, and orday<g ref="char:EOLhyphen"/>ned by him (her Sonne) to crush <hi>Sathans</hi> head, and vtterly to van<g ref="char:EOLhyphen"/>quish him.</p>
+            <p>He commended her therefore as a mother to <hi>S. John,</hi> that he might in his Lords place, as a lo<g ref="char:EOLhyphen"/>uing child honour, and respect her; happy in so gracious an a<g ref="char:EOLhyphen"/>doption, wherein his deare Mai<g ref="char:EOLhyphen"/>ster was pleased, doubbly to a<g ref="char:EOLhyphen"/>dopt and make him his Brother; not only by his Father, but by his mother also, as a holy Author affirmeth.</p>
+            <p>Fayre <hi>Rachael [Gen.</hi> 35.] is said to haue had two sonnes, the one called <hi>Ioseph,</hi> as being the
+<pb n="90" facs="tcp:15011:46"/> child of her prosperity, and in<g ref="char:EOLhyphen"/>creasing; the other named <hi>Benoni</hi> by her, the sonne of her sorrow, because she dyed in his painefull byrth: so this sacred Virgin may be said to haue had two Sonnes, the first ioy fully for herselfe and mankind by her conceaued; the other in her killing griefes was as <hi>Benoni,</hi> a sonne of sorrow, to her graciously bequeathed, who in the extasies of his mind, and high graces receaued (as <hi>Dauid</hi> in <hi>Psalm.</hi> 67. mysteriously calleth him) proued a <hi>Beniamin</hi> after<g ref="char:EOLhyphen"/>wards amōgst the Apostles, gra<g ref="char:EOLhyphen"/>ced aboue the rest, by leauing on his bosome in his last supper, and hauing had his mother recom<g ref="char:EOLhyphen"/>mended vnto him.</p>
+            <p>Neither had <hi>S. John</hi> this hap<g ref="char:EOLhyphen"/>pines alone, but after him also o<g ref="char:EOLhyphen"/>ther holy soules were ordayned to haue a share in this heauenly
+<pb n="91" facs="tcp:15011:46"/> adoption, to be honoured in his honour, and blessed in his bles<g ref="char:EOLhyphen"/>singes, not for him alone, but for vs also, by our most louing and liberall Lord, graciously prepa<g ref="char:EOLhyphen"/>red; who had nothing so deare, and proper to himselfe, which he hath not for our good been wil<g ref="char:EOLhyphen"/>ling to communicate vnto vs.</p>
+            <p>His Father (for example) he hath made ours, his merits, his kingdom: and his mother lastly for a heauenly Parent, he bequea<g ref="char:EOLhyphen"/>thed vnto vs, who by being vni<g ref="char:EOLhyphen"/>ted with her Sonne, in his payne<g ref="char:EOLhyphen"/>full purchase of graces for vs, merited from him, a gracious power, to performe Motherly offices, and obtayne heauenly blessings abundantly, for her de<g ref="char:EOLhyphen"/>uout children, and seruants.</p>
+         </div>
+         <div n="17" type="chapter">
+            <pb n="92" facs="tcp:15011:47"/>
+            <head>
+               <hi>CHAP. XVII.</hi> Of our Sauiours third speach vttered on the Crosse, to the good Theefe.</head>
+            <p>THe Crosse (sayth <hi>S. Augu<g ref="char:EOLhyphen"/>stine, in Psal.</hi> 54.) by the ma<g ref="char:EOLhyphen"/>iesty of him, who for his Fathers glory, and mans redem<g ref="char:EOLhyphen"/>ption victoriously ascended it, was not only an instrument of his passion, but a Throne also ere<g ref="char:EOLhyphen"/>cted to exercise his Iustice, and mercy differently on it. The two Theeues, amidst whome he was crucified, representing the diffe<g ref="char:EOLhyphen"/>rent standings, on his right, and left hand, of the good and bad, to be sentenced finally by him.</p>
+            <p>The one of these Theeues, he left to dy, as he had liued: in the other, he was pleased to shew the force of his grace, and vertue of his passion. So as his punishment patiently accepted, became for
+<pb n="93" facs="tcp:15011:47"/> his sinnes, a speedy purgation. Faith illuminated him, to know the gracious pardoner of them. Hope of mercy animated him to aske the blessings of his king<g ref="char:EOLhyphen"/>dome. Charity enflamed, &amp; mo<g ref="char:EOLhyphen"/>ued him publiquely to confesse his diuine, and innocent Redee<g ref="char:EOLhyphen"/>mer, when all his friends seemed to haue forsaken him. Zeale mo<g ref="char:EOLhyphen"/>ued him, to blame his fellow, for ioyning with others, wickedly to blaspheme him: and Heroicall acts of vertue, as he hanged on his crosse, were exercised by him. So as from Hell-mouth to hea<g ref="char:EOLhyphen"/>uen gate, he was sudaynely ray<g ref="char:EOLhyphen"/>sed; and from being a Theefe to become a Saint happily conuer<g ref="char:EOLhyphen"/>ted.</p>
+            <p>The fresh breath of our Saui<g ref="char:EOLhyphen"/>ours killing wounds did sweetly enter into his soule, from death to reuiue it: &amp; the first flowings
+<pb n="94" facs="tcp:15011:48"/> of such fountaynes newly ope<g ref="char:EOLhyphen"/>ned, were effectuall to cleanse him with heauenly graces, libe<g ref="char:EOLhyphen"/>rally then bestowed, by the ac<g ref="char:EOLhyphen"/>tuall purchaser, &amp; paynefull me<g ref="char:EOLhyphen"/>riter of them.</p>
+            <p>Our Sauiours body hanging on the Crosse, was like that <hi>Probati<g ref="char:EOLhyphen"/>ca</hi> in <hi>Hierusalem [Ioan.</hi> 5.] &amp; the waters thereof newly troubled, and stirred in his passion, did ful<g ref="char:EOLhyphen"/>ly cure this Theeues leaprous soule, by faythfull acts of loue, and sorrow first entring into thē. So that, his Crosse became a Pulpit for this new Doctour, il<g ref="char:EOLhyphen"/>luminated frō heauen, to preach his Redeemers greatnes, and zea<g ref="char:EOLhyphen"/>lously teach others likewise to know him.</p>
+            <p>
+               <hi>Neyther dost thou</hi> (sayd he to his fellow) <hi>feare God, who art in the same damnation: we for our facts receaue worthy punishments, but this
+<pb n="95" facs="tcp:15011:48"/> iust man, what hath he done?</hi> And then conuerting him towards the sonne of God, with his hart, and face togeather, he cryed feruent<g ref="char:EOLhyphen"/>ly, and penitently vnto him; <hi>Lord remember me, when thou shalt come to thy kingdome.</hi> Who as a new borne Babe of heauē, was quick<g ref="char:EOLhyphen"/>ly quieted in his cry, and happly contented with Christs answere vnto him, promising that which in the humility of his soule he dared not demaund for himselfe, to wit, that he should that very day be in Paradise with him, and ioyes euerlasting: giuing him so, a present possession of his hea<g ref="char:EOLhyphen"/>uenly kingdome, wherin he desi<g ref="char:EOLhyphen"/>red to be only remembred.</p>
+            <p>After which promise ioyfully heard, faithfully belieued, and thankfully accepted, this Bles<g ref="char:EOLhyphen"/>sed man was silent, delighting himselfe (as we may well con<g ref="char:EOLhyphen"/>ceaue)
+<pb n="96" facs="tcp:15011:49"/> in his Eternall happines so neerly approaching, extolling his Lords mercifull bounty, and hartly compassionating him, in his innocent sufferings for him sustayned.</p>
+            <p>Angells (we may imagine) dis<g ref="char:EOLhyphen"/>enuirone, illuminate, and com<g ref="char:EOLhyphen"/>fort this dying companion of their Lord, a Holy Confessour of him vpon his Crosse, and a de<g ref="char:EOLhyphen"/>signed Cittizen of heauen. And such inward consolations, as he would not affoard to himselfe, Christ conferred (no doubt) a<g ref="char:EOLhyphen"/>bundantly vnto him, as the first fruit reaped from the Earth, wa<g ref="char:EOLhyphen"/>tred with his bloud, and offered to his Eternall Father, euen du<g ref="char:EOLhyphen"/>ring the tyme of his passion.</p>
+            <p>From whose happy Conuer<g ref="char:EOLhyphen"/>sion, in the end of his life, we may comfortably gather, that whilst we are aliue, it is neuer
+<pb n="97" facs="tcp:15011:49"/> ouerlate, to aske for mercy, with a contrite hart, of so louing a Re<g ref="char:EOLhyphen"/>deemer, albeit hereupon no man should presume, vntill the last cast, to differ his conuersion; si<g ref="char:EOLhyphen"/>thence insteed of one so saued, millions haue byn damned; gra<g ref="char:EOLhyphen"/>ces being not equally at all tymes offered, to such especially, as by their presūption, do make them<g ref="char:EOLhyphen"/>selues vnworthy to receaue them.</p>
+            <p>We may profitably also ga<g ref="char:EOLhyphen"/>ther two pointes more. The first is, that exteriour graces, are not (albeit alike) to seuerall persons equally effectuall; when interiour motions, from God, do not in like manner further them. The other is, that temporall punish<g ref="char:EOLhyphen"/>ments, and disgraces often proue to sinners (as they did to this good Theefe) higher, and hap<g ref="char:EOLhyphen"/>pier blessings, then much prospe<g ref="char:EOLhyphen"/>rity, commonly fatning soules
+<pb n="98" facs="tcp:15011:50"/> for the slaughter, hoarding vp for them greater treasures of wrath (according to the feare<g ref="char:EOLhyphen"/>full phrases of Scripture) and fil<g ref="char:EOLhyphen"/>ling fuller the measure of iniqui<g ref="char:EOLhyphen"/>tie, to heap Eternall punishments accordingly on them, the greatest reueng which God can take of a sinner.</p>
+         </div>
+         <div n="18" type="chapter">
+            <head>
+               <hi>CHAP. XVIII.</hi> Of our Sauiours mysterious silence on the Crosse for three houres togeather.</head>
+            <p>IT is, by graue Authors, most probably affirmed, that our Sauiours three first speached (already declared) were vttered by him, soone after he was lifted on his Crosse, &amp; the other foure not long before he drew neere vnto the end of his passion; so that for almost three houres togea<g ref="char:EOLhyphen"/>ther, he was silēt in his torments,
+<pb n="99" facs="tcp:15011:50"/> quietly the whilst tasting the whole bitternes of them, hanging his payned head downe, and see<g ref="char:EOLhyphen"/>ming not to note the horrible blasphemies, outrages, and pitti<g ref="char:EOLhyphen"/>lesse vsage of his enemies against him, as bidding him; <hi>If he were the Sonne of God, to descend from his Crosse, and they would belieue him;</hi> and vpbrayding, <hi>that he had saued others, &amp; therfore now should saue himselfe;</hi> gnashing their teeth, shaking their heads, scorning &amp; deriding him.</p>
+            <p>Heauen being darkened, mour<g ref="char:EOLhyphen"/>ned as it were at this sad specta<g ref="char:EOLhyphen"/>cle, and the Sunne miraculously withdrew his beames from the earth, to shew mysteriously ther<g ref="char:EOLhyphen"/>by, that the Sunne of heauen himselfe was in his wōted bright<g ref="char:EOLhyphen"/>nes exteriourly Eclipsed, &amp; that a darke night of sinne ouerwhel<g ref="char:EOLhyphen"/>med mortall Creatures.</p>
+            <pb n="100" facs="tcp:15011:51"/>
+            <p>The three diuine Persons had been by mens sinne equally of<g ref="char:EOLhyphen"/>fended, and therfore he that sa<g ref="char:EOLhyphen"/>tisfyed by his paynefull death for them, patiently remayned three houres in his torments.</p>
+            <p>He meant to redeeme by his passion, holy Soules, in the Law of Nature vnder <hi>Moyses,</hi> and du<g ref="char:EOLhyphen"/>ring his owne Law, guilty of sinne, &amp; therfore he would haue his paynes for three houres con<g ref="char:EOLhyphen"/>tinued.</p>
+            <p>Holy Soules were to haue Na<g ref="char:EOLhyphen"/>ture perfected, grace restored and glory in them consummated by the merit of his passion: &amp; those three sorts of blessings for them he thought cheapely purchased by three houres sufferings. He meant on his Crosse, to satisfy for all mens sinnes, in thought word, and deed committed; and therefore he would haue for three
+<pb n="101" facs="tcp:15011:51"/> houres togeather his satisfactions prolonged.</p>
+            <p>Finally (to omit many other like reasōs) his triūphant Church was to be glorified, his patient Church purged, his militant Church sanctified, and all saued soules amongst the three Hierar<g ref="char:EOLhyphen"/>chyes of Angells happly raysed, by his three houres paines, on the Crosse mysteriously sustay<g ref="char:EOLhyphen"/>ned, wherein his bloud did cry loudely, his Patience plead effe<g ref="char:EOLhyphen"/>ctually, and his Charity begge hartily, pardon for our sinnes, graces to amend them, &amp; boun<g ref="char:EOLhyphen"/>ty from his Father, as if we neuer had offended him: and that not in generall only, but in particular likewise; so as singly and one by one, we may say with the Apo<g ref="char:EOLhyphen"/>stle, <hi>Christ is dead for me, he offered his passion for me, and loued me so dearely,</hi> as he could haue beene
+<pb n="102" facs="tcp:15011:52"/> willing, had it beene needfull to haue dyed singly for me. So <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the whole world; is not more o<g ref="char:EOLhyphen"/>bliged vnto him, for his tor<g ref="char:EOLhyphen"/>ments, then I am alone, for his will by them to redeeme me: and albeit the effects, and graces gai<g ref="char:EOLhyphen"/>ned for holy soules, by his death, haue been from tyme to tyme, according to his gracious will, &amp; pleasure, differently distributed; yet hath it been my owne fault chiefly, that I haue not gotten hitherto a greater share of them eternally to enrich me.</p>
+            <p>The pourtrature of our Lord hanging on his Crosse, silently in torments (fit in the memory or hart of ech Christian to be deep<g ref="char:EOLhyphen"/>ly imprinted) is by <hi>Dauid</hi> in seue<g ref="char:EOLhyphen"/>rall Psalmes, and other Prophets thus particularly described: <hi>Fur<g ref="char:EOLhyphen"/>rowes had bin by sinners plowed on his backe, and his bones with whips
+<pb n="103" facs="tcp:15011:52"/> in many places bared.</hi> Paynefull swellings, and gore-bloud had marred the proportiō of his lims and defaced his beauty. Nayles had bored, and made wide holes in his hands, and feete, by the weight of his dying body, han<g ref="char:EOLhyphen"/>ging on them, paynefully enlar<g ref="char:EOLhyphen"/>ged.</p>
+            <p>The losse of his bloud so oftē, and plentifully effused, had like a potsherd dryed vp his body, so as a deadly dust, insteed of sweat issued from it.</p>
+            <p>His tongue for drought did cleaue to his mouth, his eyes for want of spirits languished, so as he had not forces to open them; and according to holy <hi>Symeons</hi> comparison, he hunge on his Crosse, as a signe to be shot at, yet as louely then in his agonies, and disgraces, as now he is in his glory and greatnesse. For these
+<pb n="104" facs="tcp:15011:53"/>
+               <gap reason="duplicate" resp="#oxf" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="105" facs="tcp:15011:53"/>
+               <gap reason="duplicate" resp="#oxf" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="104" facs="tcp:15011:54"/> are as his triumphes, and those o<g ref="char:EOLhyphen"/>ther his bloudy combats, wher<g ref="char:EOLhyphen"/>by they were purchased. Those the laboursome throwes (as it were) and paynefull pangs in our birth to grace, graciously by him sustayned: these his ioyes, and congratulations after them.</p>
+         </div>
+         <div n="19" type="chapter">
+            <head>
+               <hi>CHAP. XIX.</hi> Of our Sauiours fourth Speach on the Crosse.</head>
+            <p>THe Sonne of God, a litle be<g ref="char:EOLhyphen"/>fore his death, cryed <hi>Eloi, Eloi, Lāmasabacthani,</hi> Father, Father, why hast thou forsaken me? Expressing by this outcry &amp; sad demaūd, made to his Father, the internall derelictions of his soule, and want of any comfort affoarded vnto it, for the case of his torments.</p>
+            <p>He despayred not of mercy, at this instant, or feared his Fathers
+<pb n="105" facs="tcp:15011:54"/> Iustice for mens sinnes taken v<g ref="char:EOLhyphen"/>pon him (as some haue impiously &amp; blasphemously affirmed) who gaue Heauen a little before to the penitent Theefe, and chiefly then merited by his painefull suf<g ref="char:EOLhyphen"/>ferings, his Fathers loue towards him, whome by the superiour acts of his soule, he beatifically still beheld, and confidently a little afterwards recommended his soule vnto him.</p>
+            <p>But he gaue by this mysterious out-cry, holy Soules to vnder<g ref="char:EOLhyphen"/>stand, that his corporall, and in<g ref="char:EOLhyphen"/>feriour part (only capable of tor<g ref="char:EOLhyphen"/>ments) had neither immediatly from his diuine Father, nor me<g ref="char:EOLhyphen"/>diatly from the superiour part of his soule, or otherwise, been cō<g ref="char:EOLhyphen"/>forted by any thought, or holpen in the whole course of his pas<g ref="char:EOLhyphen"/>sion, but left to it selfe as distres<g ref="char:EOLhyphen"/>sed and forsaken, that the suffe<g ref="char:EOLhyphen"/>rings
+<pb n="106" facs="tcp:15011:55"/> therof might be the more intense &amp; effectuall satisfactions, for vs. That Martyrs likewise in their conflicts might by the ho<g ref="char:EOLhyphen"/>ly merit of them, receaue abun<g ref="char:EOLhyphen"/>dant consolations, as since they are knowne to haue done, when burning-coles haue seemed to them as coole roses to walke on; flaming fires, comfortable refre<g ref="char:EOLhyphen"/>shings; scalding lead, and oyle, pleasant bathings; deadly poy<g ref="char:EOLhyphen"/>sons, harmeles potions; their ex<g ref="char:EOLhyphen"/>posings to wilde beasts, tamings of their fiercenes; tearings of their flesh, easy scratches; brea<g ref="char:EOLhyphen"/>king of bones, and other violent tortures, haue seemed as banquelts pleasing and delightfull.</p>
+            <p>Their glorious triumphes be<g ref="char:EOLhyphen"/>ing indeed no other then Tro<g ref="char:EOLhyphen"/>phies of our Sauiours victory, bestowings of his gettings, and happy fruites of his sufferings
+<pb n="107" facs="tcp:15011:55"/> who was feeble himself to streng<g ref="char:EOLhyphen"/>then his seruants; fearefull, to imboulden them; payned, to ease them; humbled to rayse them; left forsaken by his Father, and himselfe left in the corporall part of his nature, to sweeten martyr<g ref="char:EOLhyphen"/>dome &amp; hard trials sustained for him afterwards, with heauenly consolations.</p>
+            <p>So as they haue ill hartes (sayth <hi>S. Bernard</hi>) who are scandalized at his goodnes; and dull heads, who conceaue basely of his spea<g ref="char:EOLhyphen"/>ches, vttered by this glad suffe<g ref="char:EOLhyphen"/>rer to his Father, when he had so neerly ended the painefull worke of Obedience vpon him impo<g ref="char:EOLhyphen"/>sed, by making our eternal peace, and happily redeeming vs.</p>
+            <p>In so much, as when he com<g ref="char:EOLhyphen"/>playneth <hi>to haue been left,</hi> we are with a due respect of his infinite wisedome, maiesty, and dearenes
+<pb n="108" facs="tcp:15011:56"/> to his Father, vnto whome he complayned, to cōsider in which part of his humane nature for vs assumed, he was so forsaken: in that, to wit, which was so sensibly afflicted by the agonies and tor<g ref="char:EOLhyphen"/>ments of his passion. Why like<g ref="char:EOLhyphen"/>wise he suspended all flowings of superiour delights thereinto; To wit for the greater merit (we may well affirme) of the sufferings thereof, as they were for his Fa<g ref="char:EOLhyphen"/>thers glory voluntarily vnder<g ref="char:EOLhyphen"/>taken. And lastly why in his very death, he so lamentably expressed them; To wit, for the reasons a<g ref="char:EOLhyphen"/>foresaid, and that holy Soules awakened by this out-cry of his, might more deeply apprehend the bitternes of them: This our most gracious Redeemer, being delighted in nothing more, then to haue his disgraces and tor<g ref="char:EOLhyphen"/>ments, with infinite loue by him
+<pb n="109" facs="tcp:15011:56"/> sustayned, thankfully by vs ack<g ref="char:EOLhyphen"/>nowledged, frequently remem<g ref="char:EOLhyphen"/>bred, and compassionatly de<g ref="char:EOLhyphen"/>plored.</p>
+         </div>
+         <div n="20" type="chapter">
+            <head>
+               <hi>CHAP. XX.</hi> Of our Sauiours fifth Word vttered on the Crosse expressing his thirst.</head>
+            <p>SOrrowes are dry (according to the Prouerbe) especially when corporall paynes, doe accompany them: both which to cause &amp; increase our Sauiours drought, were in his Passion in<g ref="char:EOLhyphen"/>tensiuely conioyned.</p>
+            <p>The losse also of much bloud doth naturally cause extremity of thirst, whilst ech emptied vey<g ref="char:EOLhyphen"/>ne seeketh to draw moysture vn<g ref="char:EOLhyphen"/>to it: in so much as the learned and deuout <hi>Bellarmine</hi> worthily accoūteth Christs ardent droght one of the greatst of his tormēts; which perchance was the reason
+<pb n="110" facs="tcp:15011:57"/> why silent in his other paynes be particularly lamented that, &amp; <hi>Da<g ref="char:EOLhyphen"/>uid</hi> his holy Prophet bemoaned him in it.</p>
+            <p>Neyther was his corporall thirst, more ardet when he cried, <hi>J thirst,</hi> then was the spirituall drought of his soule, and desire of our saluation, vehement and enflamed, which had a double effect in him; the one, to drinke vp the bitter cuppe of his passion, thereby to redeeme vs; the other to apply the fruites, and graces thereof abundantly vnto vs.</p>
+            <p>His first spirituall thirst, was ended, when being neere his de<g ref="char:EOLhyphen"/>ath, he vttered this out-cry; but the other, then chiefely began, when his Passion was performed. In the first, he laboured to gayne an infinite treasure of heauenly merits for vs; in the later, he lon<g ref="char:EOLhyphen"/>ged, with them to enrich vs.</p>
+            <pb n="111" facs="tcp:15011:57"/>
+            <p>In the one he sought to obtai<g ref="char:EOLhyphen"/>ne the meanes, in the other he desired by them eternally to exalt vs: bounty being the end of his greet Charity towards vs, and no other, in it selfe, then a naturall, &amp; delightfull effusion of his good<g ref="char:EOLhyphen"/>nes. So as, the latter thirst of these two chiefly begining when the other was ended, may be said by this out-cry, to haue been specially expressed.</p>
+            <p>From which fountayne of our Sauiours loue, and ardent desire of our good, all soules haue been sanctifyed since, and heauenly graces, plentifully conferred, when we fall, to rayse vs, when we faint to strengthen vs, when we are troubled to quiet vs, when we feare to encourage vs, when we are afflicted to cōfort vs, when we wauer in temptations to set<g ref="char:EOLhyphen"/>tle vs; when we are dead by sinne,
+<pb n="112" facs="tcp:15011:58"/> to reuiue vs; and by abundant graces to make vs feruent, and perseuerant in his seruice.</p>
+            <p>In which holy thirst of the Sonne of God, they giue him, with his cruell Executioners, vi<g ref="char:EOLhyphen"/>nagre insteed of wine to drinke, who either wilfully contemne, or correspond not as they ought, with his graces. In which horri<g ref="char:EOLhyphen"/>ble cruelty, more to our selues, then to him, ech one is to exa<g ref="char:EOLhyphen"/>mine himselfe, how he hath been faulty, and vngratefull to so gra<g ref="char:EOLhyphen"/>cious, and liberall a Redeemer; whose thirst is best quenched, with the like thirst in our selues after Sanctity and Iustice, which he is so glad, and desirous to be<g ref="char:EOLhyphen"/>stow on vs, as with a louing out-cry thus in the Ghospell he in<g ref="char:EOLhyphen"/>uiteth vs vnto him: <hi>He that is thirsty, let him come vnto me, and drinke, and flouds shall flow out of
+<pb n="113" facs="tcp:15011:58"/> his belly, rising into life euerlasting.</hi>
+            </p>
+            <p>He is euer ready to communi<g ref="char:EOLhyphen"/>cate graces, vnto vs, as a full and flowing fountayne of thē: let vs be as ready to receaue them. He is neuer wearied in bestowing them: let vs be euer prepared to accept them. He is pleased when we aske them: let vs be in<g ref="char:EOLhyphen"/>stant to obtaine them; Our im<g ref="char:EOLhyphen"/>portunity in begging them be<g ref="char:EOLhyphen"/>ing delightfull vnto him, and his bounty neuer exhausted in be<g ref="char:EOLhyphen"/>stowing them.</p>
+         </div>
+         <div n="21" type="chapter">
+            <head>
+               <hi>CHAP. XXI.</hi> Of our Sauiours sixt Word on the Crosse, <hi>It is consummated.</hi>
+            </head>
+            <p>THis speach was to his Father, and vs equally vttered. First to make known to him, how perfectly he had in his life, and death, fulfilled that high &amp; hard worke of Obedience on him im<g ref="char:EOLhyphen"/>posed,
+<pb n="114" facs="tcp:15011:59"/> so as nothing thereunto belonging had ben by him pre<g ref="char:EOLhyphen"/>termitted, or imperfectly per<g ref="char:EOLhyphen"/>formed. And that we secondly (for whose instruction he spake all things) from his punctuall Obedience, in doing and suffe<g ref="char:EOLhyphen"/>ring as his Father had comman<g ref="char:EOLhyphen"/>ded him, might learne in like mā<g ref="char:EOLhyphen"/>ner, neuer to fayle in a due per<g ref="char:EOLhyphen"/>formance of our seruices towards him; still proposing so great an Example, as was the Sonne of God before our eyes, to animate, comfort, and confirme vs, in all hard attempts, and painefull suf<g ref="char:EOLhyphen"/>ferings for him.</p>
+            <p>Difficulties did not terrify him, daungers did not discourage him, Feare of harmes did not coole him. Disgraces did not confound him, Wounds affright him, Torments dismay him, La<g ref="char:EOLhyphen"/>bours weary him, or a most pain<g ref="char:EOLhyphen"/>full
+<pb n="115" facs="tcp:15011:59"/> and opprobrious death, make him fayle in his vndertakings for vs. So as, without shamefull in<g ref="char:EOLhyphen"/>gratitude, we cannot shrinke, or imperfectly performe any serui<g ref="char:EOLhyphen"/>ces required, and ordayned vnto vs, by him.</p>
+            <p>Our Sauiour (we must vnder<g ref="char:EOLhyphen"/>stand) being infinitly wise as he was, did not performe his human actions, or vndergoe his painefull sufferings casually, and at ran<g ref="char:EOLhyphen"/>dome, either in the substance or circumstances of them; but as his diuine Father in his very conce<g ref="char:EOLhyphen"/>ption had orderly, clearly, and particulerly reuealed them. And as <hi>Moyses</hi> ordayned the Iewish Sacrifices, and Ceremonyes ac<g ref="char:EOLhyphen"/>cording to the example, which on <hi>Mount Syna</hi> had byn shewed him, as fit Types of our heauenly Redeemers sacrifices afterwards, and sufferings: so this great Lord
+<pb n="116" facs="tcp:15011:60"/> and Maister of <hi>Moyses,</hi> did exa<g ref="char:EOLhyphen"/>ctly, and holily obserue, his di<g ref="char:EOLhyphen"/>uine Fathers ordinations, and commaundements in all things, according as his Father had or<g ref="char:EOLhyphen"/>dayned them, by the holy pra<g ref="char:EOLhyphen"/>ctise of his life, and death, fully declared vnto vs: the same exam<g ref="char:EOLhyphen"/>ple indeed, which <hi>Moyses</hi> had, but by his owne example, more liuely, mouingly, and practically proposed vnto vs.</p>
+            <p>In which, that Christian soule is happy, who hath followed it so, as when he commeth to dye, he may with great ioy of his hart, and a certayne assurance of Beatitude afterwards, vse these words of his dying deare Lord <hi>Consummatum est,</hi> the worke, which thou hast giuen me to be done, hath been fully, and perfe<g ref="char:EOLhyphen"/>ctly accomplished by me.</p>
+            <p>And this is the difference, be<g ref="char:EOLhyphen"/>tweene
+<pb n="117" facs="tcp:15011:60"/> holy Saintes, and Sin<g ref="char:EOLhyphen"/>ners in their endes. These are ter<g ref="char:EOLhyphen"/>rified, and feele a great horrour in themselues, to appeare before their Iudge, whome in their liues they haue frequently, and hey<g ref="char:EOLhyphen"/>nously offended: The other, as they haue faythfully loued and serued him heere, so dying they long to see him, as victorious combattants to be crowned, as painefull labourers to receaue their hyre promised, as diligent imployers of their Lords Ta<g ref="char:EOLhyphen"/>lents, to be liberally rewarded for multiplying of them; and as obedient children, to be by their diuine Father, straightly imbra<g ref="char:EOLhyphen"/>ced, blessed, and possessed, of an eternall inheritance, for them prepared.</p>
+         </div>
+         <div n="22" type="chapter">
+            <pb n="118" facs="tcp:15011:61"/>
+            <head>
+               <hi>CHAP. XXII.</hi> Of our Sauiours last cry, and death.</head>
+            <p>THat the world might know the Sonne of God (to vse his owne words) had power to depose his life, and agayne to assume it, he would not dye as o<g ref="char:EOLhyphen"/>ther men naturally do, forceles, fainting, and vnable to breath any longer; but he purposely re<g ref="char:EOLhyphen"/>serued a miraculous kind of strength till his last gaspe, that he might therby make his death singular, and apt by the strange manner thereof, to confound, or conuert his behoulders.</p>
+            <p>For <hi>S. Paul</hi> telleth vs that he yielded vp his ghost, with a strōg crie, and teares. His Voice ex<g ref="char:EOLhyphen"/>pressed a confidency of loue to<g ref="char:EOLhyphen"/>wards his Father, into whose hands he recommended his dying soule: and his Teares were shed to
+<pb n="119" facs="tcp:15011:61"/> deplore mens vngratefull vsages of him, the reprobation of his people for their malice against him, the daungers he was to leaue his friends in and the damnation of innumerable soules, for not vsing as they ought, graces, by his death purchased for them.</p>
+            <p>He wept then, as some mild Iudge would do, knowing how dreadfull a sentence he was to pronounce against some heynous malefactour, to be adiudged by him. He wept then, to scorne his obstinate enemyes euer after, and laugh at their destruction, when mildenes, vsed in his first, shall giue place to fury in his second Comming, Mercy to Iustice, Pa<g ref="char:EOLhyphen"/>tience to Reuenge and Silence to dreadfull threats (against his ad<g ref="char:EOLhyphen"/>uersaryes) of Horrour, and Con<g ref="char:EOLhyphen"/>fusion. So as, according to this high Iudges owne words, they
+<pb n="120" facs="tcp:15011:62"/> shall wish for hills to fall on them and mountaynes to couer, and hide them from the anger of the Lambe towards them.</p>
+            <p>Lastly, he wept at his going out of this world to make (sayth a holy Father) the end of his painefull life, suitable to the be<g ref="char:EOLhyphen"/>ginning therof, wherin children with teares, and cryes seeme to presage their miseries ensuing. And mysteriously withall to war<g ref="char:EOLhyphen"/>ne vs, not to depart this life, so neere as we can, without shed<g ref="char:EOLhyphen"/>ding teares of harty sorrow, and repentance, through the warme Lymbecke of loue (as our Sa<g ref="char:EOLhyphen"/>uiours were) plentifully distilled; because such flowings from our eyes, and hart together, will best cleanse our soules, quench any purging flames feared at that in<g ref="char:EOLhyphen"/>stant, by vs; and present them pure, to their great Makers hāds,
+<pb n="121" facs="tcp:15011:62"/> who do happily shed them, to be by him blessed, imbraced, and eternally exalted: Christ hauing by his death sweetned now that passage; blunted the serpēts sting, into the heele of his diuine Per<g ref="char:EOLhyphen"/>son (to wit, his corporall nature) voluntarily for that purpose re<g ref="char:EOLhyphen"/>ceaued; dulled the Angells sword in his wounds, and quenched by his bloud the flaming thereof, with which, to keep vs out of pa<g ref="char:EOLhyphen"/>radise, the gate thereof was for<g ref="char:EOLhyphen"/>merly guarded.</p>
+            <p>So that, as death was to Christ himselfe, so is it now to his belo<g ref="char:EOLhyphen"/>ued seruants, gladly imbracing it, a Port after stormes, an Eter<g ref="char:EOLhyphen"/>nall rest after labours, and a hap<g ref="char:EOLhyphen"/>py Entrance for them, into the ioy of their Lord, after afflictiōs heere ended. The heauenly Fa<g ref="char:EOLhyphen"/>thers armes since they were first opened to receaue the dying
+<pb n="122" facs="tcp:15011:63"/> soule of his deare Sonne, exalt him after his humiliation, and glorify him after his passion, ha<g ref="char:EOLhyphen"/>uing neuer been shut, but widely extended, and ready still to im<g ref="char:EOLhyphen"/>brace holy soules, recommended vnto him by the holy merits of their Redeemers sufferings.</p>
+         </div>
+         <div n="23" type="chapter">
+            <head>
+               <hi>CHAP. XXIII.</hi> Of the Consequences of our Sauiours death, and opening of his side.</head>
+            <p>AT the very dissolution, and parting of our Sauiours soule and body (wherein his death properly consisted) the ayre then darckned before be<g ref="char:EOLhyphen"/>came sodainly cleared, to repre<g ref="char:EOLhyphen"/>sent the bright sun-shine of hea<g ref="char:EOLhyphen"/>uenly graces, purchased for vs.</p>
+            <p>The earth trembled, &amp; Rockes tore in sunder, to signify the ter<g ref="char:EOLhyphen"/>rour of earthly Soules, at his iudgments, and deep contrition
+<pb n="123" facs="tcp:15011:63"/> which should possesse penitent hartes, for sinnes, by them com<g ref="char:EOLhyphen"/>mitted.</p>
+            <p>Graues opened, and dead bo<g ref="char:EOLhyphen"/>dies lay in them expecting their owne, and representing, of all men, a generall Resurrection, newly obtained.</p>
+            <p>The curious Veile of colou<g ref="char:EOLhyphen"/>red silkes, which couered the face of the inmost Temple, was rent in two from the bottome to the toppe; to signify, that nothing was now left any longer holy, &amp; mysterious, to that wicked peo<g ref="char:EOLhyphen"/>ple: and that likewise the Verities of Faith, hidden before, were to be afterwards to the Gentils, o<g ref="char:EOLhyphen"/>penly reuealed.</p>
+            <p>The Captayne of the Roman Souldiers, that crucified Christ, was the first next the Theefe, that happly shared, in our Sauiours redemption, so farre, as to con<g ref="char:EOLhyphen"/>fesse
+<pb n="124" facs="tcp:15011:64"/> his Deity, and say plainly, <hi>This man was truly the Sonne of God:</hi> grieuing himselfe, and con<g ref="char:EOLhyphen"/>founding the Iewes present, for their bloudy out-rages against him; so as many of them, did beat their breasts, and sadly departed.</p>
+            <p>His friends (<hi>S. Joseph, Nicode<g ref="char:EOLhyphen"/>mus,</hi> and others) assumed a great bouldnes with his death, to beg his body of <hi>Pilate,</hi> honourably to interre it; his fainting hauing strengthned them, his feares en<g ref="char:EOLhyphen"/>couraged them, and his death with a new life graciously reui<g ref="char:EOLhyphen"/>ued them.</p>
+            <p>Our Lords paynes, but not his woundes, ended with his death, because he receaued the greatest of them afterwards, if it may be called a wound, which is more fitly tearmed by the Euangelist to haue been, an opening of his side, from whence bloud and wa<g ref="char:EOLhyphen"/>ter,
+<pb n="125" facs="tcp:15011:64"/> to coole, and cleanse sinfull soules, mysteriously issued.</p>
+            <p>This Cleft of our Heauenly Rocke, was widely, and deeply made, that holy soules might ea<g ref="char:EOLhyphen"/>sily enter, and hide themselues in it, to contemplate therein, his wounded hart, with human loue and diuine mercy graciously sto<g ref="char:EOLhyphen"/>red, and inundations of heauen<g ref="char:EOLhyphen"/>ly graces issuing from it.</p>
+            <p>It could not be pierced, whilst he was aliue, nor the vitall bloud therein to the last drop (as he in<g ref="char:EOLhyphen"/>tended, for vs) effused. Where<g ref="char:EOLhyphen"/>fore after his death, he would haue it effected, and that Prophe<g ref="char:EOLhyphen"/>cy fulfilled, <hi>Super dolorem vulne<g ref="char:EOLhyphen"/>rum meorum addiderunt,</hi> they ad<g ref="char:EOLhyphen"/>ded aboue the griefe of my woū<g ref="char:EOLhyphen"/>des; or wounded me when I wan<g ref="char:EOLhyphen"/>ted sense to feele the same, as a holy Author expoundeth it.</p>
+            <p>But what he felt not himselfe,
+<pb n="126" facs="tcp:15011:65"/> his afflicted Mother smarted in, to behould the body of her gra<g ref="char:EOLhyphen"/>cious Sonne, and Redeemer, by so wide, and deepe a gash as the souldiers speare had made there<g ref="char:EOLhyphen"/>in, more then by any of his other wounds, mangled and defaced.</p>
+         </div>
+         <div n="24" type="chapter">
+            <head>
+               <hi>CHAP. XXIV.</hi> Of our Sauiours Buriall.</head>
+            <p>THe deposall of our Sauiours dead body from the Crosse was a bringing neerer (as it were) of killing griefe, to the hart of his Blessed mother, by the nee<g ref="char:EOLhyphen"/>ner view, and cold touches, of his deformed woundes, lamenta<g ref="char:EOLhyphen"/>bly caused; vntill they were with the sweet mixture of Aloes, and Mirrhe broght by <hi>Nicodemus,</hi> em<g ref="char:EOLhyphen"/>balmed, and his body wrapped in cleane linnen brought by <hi>S. Io<g ref="char:EOLhyphen"/>seph</hi> to inuolue it: mysteriously signifying the cleane consciences
+<pb n="127" facs="tcp:15011:65"/> of holy soules in his Church sa<g ref="char:EOLhyphen"/>cramentally now receauing him.</p>
+            <p>After a most ignominious and painefull death (according to <hi>I say</hi> his prediction) his buriall was glorious both in the Atten<g ref="char:EOLhyphen"/>dants, and circumstances there<g ref="char:EOLhyphen"/>of: His afflicted mother hauing been the chiefest mourner in this sad Obsequy, accompanyed (no doubt) with all his Apostles, and Disciples assembled, to deplore their Lords death, who liuing had been so graciously deare, and louing vnto them.</p>
+            <p>His Sepulcher was a Rocky Vault, newly made, and couered with a great stone, that in this bed of death and darkenes, his body after the painefull labours, and sufferings thereof, might for 33. houres togeather, or ther<g ref="char:EOLhyphen"/>about, lye quietly reposed, to be awakened in a new life after<g ref="char:EOLhyphen"/>wards,
+<pb n="128" facs="tcp:15011:66"/> and gloriously raysed.</p>
+            <p>His Mother, and friends left this pretious part of her diuine Sonne, and their gracious Lord so intombed, carrying their grie<g ref="char:EOLhyphen"/>fes home with them renewed in the hart of his Mother, especial<g ref="char:EOLhyphen"/>ly by sad reflections, on his par<g ref="char:EOLhyphen"/>ticuler sufferings; that by such afflictions, louingly by her, and the rest continued, their holy merits, and ioyes in his Resurre<g ref="char:EOLhyphen"/>ction might be accordingly in<g ref="char:EOLhyphen"/>creased.</p>
+            <p>The triumph of our Sauiours soule began immediatly after his death, and victory obtayned, by terrifying Diuells and damned soules, with the glory and power of his presence; and glorifying the soules of his captiued friends then ordayned to receaue (as the first fruite of his passion) their Beatitude from him. Whereas
+<pb n="129" facs="tcp:15011:66"/> for a surer testimony of his death the triumph of his body was till the third day purposely differ<g ref="char:EOLhyphen"/>red, when his conquering Soule returned thereunto (as another <hi>Iacob</hi> to his home) with two troopes of Angells, and Saintes gloriously attended, to repayre the ruines thereof, decke it with new bewtyes, and replenish it (for torments sustayned) with Eter<g ref="char:EOLhyphen"/>nall Delights, and vnspeakable Contentments heaped endlesly vpon it.</p>
+         </div>
+      </body>
+      <back>
+         <div type="table_of_contents">
+            <pb n="130" facs="tcp:15011:67"/>
+            <head>THE TABLE OF CHAPTERS.</head>
+            <list>
+               <item>
+                  <hi>Chap. I.</hi> DEclaring some chiefe Figures of our Sa<g ref="char:EOLhyphen"/>uiours Passion. p. 9.</item>
+               <item>
+                  <hi>Chap. II.</hi> Of Gods wonderfull Mer<g ref="char:EOLhyphen"/>cy in redeeming vs. pag. 13.</item>
+               <item>
+                  <hi>Chap. III.</hi> Of our Sauiours last Supper. pag. 18.</item>
+               <item>
+                  <hi>Chap. IV.</hi> Of our Sauiours prayer, and bloudy agony in the Garden. pag. 25.</item>
+               <item>
+                  <hi>Chap. V.</hi> Of our Sauiours Ap<g ref="char:EOLhyphen"/>prehension, Jniuries sustained in <hi>Cayphas</hi> house, and <hi>S. Peters</hi> denying him. pag. 30.</item>
+               <item>
+                  <hi>Chap. VI.</hi> Of our Sauiours exa<g ref="char:EOLhyphen"/>mination in <hi>Caiphas</hi> house, and priuate Condemnation. pag. 37.</item>
+               <pb facs="tcp:15011:67"/>
+               <item>
+                  <hi>Chap. VII.</hi> Of our Sauiours Ar<g ref="char:EOLhyphen"/>raignement before <hi>Pilate.</hi> pag. 41.</item>
+               <item>
+                  <hi>Chap. VIII.</hi> Of our Sauiours whipping. pag. <hi>45.</hi>
+               </item>
+               <item>
+                  <hi>Chap. IX.</hi> Of our Sauiours Crow<g ref="char:EOLhyphen"/>ning with thornes. pag. 49.</item>
+               <item>
+                  <hi>Chap. X.</hi> Of our Sauiours Purple Garment, and Reedy Scepter. p. 55.</item>
+               <item>
+                  <hi>Chap. XI.</hi> Of <hi>Pilats</hi> shewing of our Sauiour. pag. 60.</item>
+               <item>
+                  <hi>Chap. XII.</hi> Of our Sauiours Con<g ref="char:EOLhyphen"/>demnation. pag. 64.</item>
+               <item>
+                  <hi>Chap. XIII.</hi> Of our Sauiours bea<g ref="char:EOLhyphen"/>ring his Crosse to <hi>Mount-Cal<g ref="char:EOLhyphen"/>uary.</hi> pag. 69.</item>
+               <item>
+                  <hi>Chap. XIV.</hi> Of his being stripped, and Crucified. pag. 74.</item>
+               <item>
+                  <hi>Chap. XV.</hi> Of our Sauiours first Words vttered on the Crosse, and Prayer for his Enemies. pag 79.</item>
+               <item>
+                  <hi>Chap. XVI.</hi> Of Christs second Speach on the Crosse, vttered to his holy Mother and beloued Dis<g ref="char:EOLhyphen"/>ciple. pag. 85.</item>
+               <pb facs="tcp:15011:68"/>
+               <item>
+                  <hi>Chap. XVII.</hi> Of our Sauiours third speach vttered on the Crosse, to the good Theefe pag. 92.</item>
+               <item>
+                  <hi>Chap. XVIII.</hi> Of our Sauiours mysterious silence on the Crosse for three houres togeather. pa. 98.</item>
+               <item>
+                  <hi>Chap. XIX.</hi> Of our Sauiours Fourth speach on the Crosse. pag. <hi>104.</hi>
+               </item>
+               <item>
+                  <hi>Chap. XX.</hi> Of our Sauiours fifth word vttered the Crosse, expres<g ref="char:EOLhyphen"/>sing his thirst. pag. <hi>109.</hi>
+               </item>
+               <item>
+                  <hi>Chap. XXI.</hi> Of our Sauiours sixt Word on his Crosse, <hi>It is consum<g ref="char:EOLhyphen"/>mated.</hi> pag. 113.</item>
+               <item>
+                  <hi>Chap. XXII.</hi> Of our Sauiours last cry, and death. pag. 118.</item>
+               <item>
+                  <hi>Chap XXIII.</hi> Of the Conse<g ref="char:EOLhyphen"/>quences of our Sauiours death, &amp; opening of his side. pag. 122.</item>
+               <item>
+                  <hi>Chap. XXIV.</hi> Of our Sauiours Buriall. pag. 126.</item>
+            </list>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:15011:68"/>
+         </div>
+      </back>
+   </text>
+</TEI>
